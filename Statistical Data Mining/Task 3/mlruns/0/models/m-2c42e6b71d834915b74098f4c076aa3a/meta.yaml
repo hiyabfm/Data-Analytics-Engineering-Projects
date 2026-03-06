@@ -1,0 +1,10 @@
+artifact_location: file:///Users/hiyab/Desktop/College%20Degree/Masters%20Program%20-%20Data%20Science/Data%20Engineer%20Masters/Statistical%20Data%20Mining%20-%20D600/Task%203/mlruns/0/models/m-2c42e6b71d834915b74098f4c076aa3a/artifacts
+creation_timestamp: 1755768554874
+experiment_id: '0'
+last_updated_timestamp: 1755768556399
+model_id: m-2c42e6b71d834915b74098f4c076aa3a
+model_type: null
+name: final_model
+source_run_id: afde9c37577d4fc69b189685742e9c01
+status: 2
+status_message: null

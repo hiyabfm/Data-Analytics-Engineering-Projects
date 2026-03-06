@@ -1,0 +1,22 @@
+artifact_path: file:///Users/hiyab/Desktop/College%20Degree/Masters%20Program%20-%20Data%20Science/Data%20Engineer%20Masters/Statistical%20Data%20Mining%20-%20D600/Task%203/mlruns/0/models/m-25a941e71796404fa7d5519d77c14e25/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 3.2.0
+model_id: m-25a941e71796404fa7d5519d77c14e25
+model_size_bytes: 555
+model_uuid: m-25a941e71796404fa7d5519d77c14e25
+prompts: null
+run_id: 6e1d8f7cf2b544ed9a32ecf28f1aa2a8
+utc_time_created: '2025-08-21 09:25:59.897107'

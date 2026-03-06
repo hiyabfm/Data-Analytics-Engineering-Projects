@@ -1,0 +1,1001 @@
+product_id,vendor,product_category,product_name
+98117fc3-01c2-426b-aa50-c058a7b82e20,Boogie Smart Home,Smart Home,Smart Thermostat
+573b0056-83ac-4bba-b6b7-97d47225fa34,Boogie Office Equipment,Office Equipment,Desk Chair
+f13fee3e-80cc-4be8-bd4f-cccf7f9240c1,Boogie Smart Home,Smart Home,Smart Door Lock
+71106cc6-8cf7-47a3-bb1b-214e2ce44003,Store Office Equipment,Office Equipment,Inkjet Printer
+7195f4aa-5a44-4f34-9489-48cc0650f602,Store Kitchen Appliances,Kitchen Appliances,Coffee Maker
+e3f96ecc-1e5a-41be-a0ad-be889af08c62,Store Fitness,Fitness,Fitness Tracker
+08a05ef0-b1df-4b5d-ad6c-e9ee300a8864,Store Office Equipment,Office Equipment,Mouse
+988338f2-5c8f-490f-836f-0b5814cc04ae,Discount Photography,Photography,Camera
+c6958baf-6408-4815-8901-1384ec35414a,Discount Electronics,Electronics,Tablet
+b19e9be6-77d7-433d-b362-5614da0ba18c,Discount Electronics,Electronics,Laptop
+89af6fc9-86c2-4dab-b8ae-c672343fd2ed,Discount Home Appliances,Home Appliances,Dryer
+b16a1b51-8355-4115-abbb-33f524106ba8,Store Entertainment,Entertainment,Home Theater System
+ba2415fd-71e3-4f2e-9608-4aef5763a18f,Store Photography,Photography,Camera
+4ca6bf62-8334-4955-be1f-a57f0f630b0a,Boogie Office Equipment,Office Equipment,Router
+5f329745-ae71-457a-99ad-c71b42acf85d,Boogie Electronics,Electronics,Smart TV
+2afd802e-2f30-4f96-b0bf-b70e274c678d,Store Electronics,Electronics,Smart TV
+d0bbb836-4522-4647-8f32-90476830045a,Store Kitchen Appliances,Kitchen Appliances,Food Processor
+5962d019-07f7-434b-a34c-3178aa3c3ad8,Store Fitness,Fitness,Exercise Bike
+35e38415-5faa-4c0d-8a72-42c467bfaf37,Discount Office Equipment,Office Equipment,Standing Desk
+f20a71a4-628d-4c15-a553-3da45b2db6dd,Store Office Equipment,Office Equipment,USB Flash Drive
+9f1a873d-86d2-49ff-b8c0-59acf14a1be3,Store Home Appliances,Home Appliances,Vacuum Cleaner
+1b3c91ab-92d6-4086-8853-4a60c3308a61,Store Entertainment,Entertainment,Blu-ray Player
+9f7c65b8-dd43-4d32-b279-3b397aae4d2f,Store Home Appliances,Home Appliances,Dryer
+8b7f290d-3cfa-47ca-8824-911b7e6f3679,Store Gaming,Gaming,VR Headset
+4822052f-47a2-4358-ba82-5e7d9408b96b,Store Photography,Photography,Camera
+030c7914-5637-4c63-b872-23dc489e8c31,Store Kitchen Appliances,Kitchen Appliances,Pressure Cooker
+00c74c02-cd68-404d-be5a-e4e829141404,Store Home Appliances,Home Appliances,Refrigerator
+0a24f6d2-592d-4bd4-9aa5-f03135a89ea9,Discount Office Equipment,Office Equipment,Laser Printer
+69d08fd9-a065-4ccc-8c77-565b0435b60c,Store Fitness,Fitness,Fitness Tracker
+dcc2b7fc-55f3-417c-9480-f3d6fdce9a85,Store Smart Home,Smart Home,Smart Thermostat
+fda4af7f-fe1d-4d91-91eb-2facb39d78d7,Store Home Appliances,Home Appliances,Dehumidifier
+de1c8dfa-0548-4236-a4bb-d20ea9f9e018,Store Personal Care,Personal Care,Electric Toothbrush
+1ef993fd-cdbd-420d-86d6-0c152f8e5e8f,Store Electronics,Electronics,4K TV
+fad91cc8-1869-4063-8550-798a0df33fe4,Discount Kitchen Appliances,Kitchen Appliances,Air Fryer
+6d27cdaf-62a7-467c-8cb2-7126e82329d2,Discount Personal Care,Personal Care,Hair Dryer
+29e3139a-c071-4993-9112-cbbd898c79b2,Boogie Gaming,Gaming,Gaming Keyboard
+ac875b7f-1188-47ea-936e-1f2b0415006d,Boogie Kitchen Appliances,Kitchen Appliances,Blender
+c2728619-4c27-4ae7-b4f8-ba0361f127d3,Boogie Kitchen Appliances,Kitchen Appliances,Microwave Oven
+88a7922e-5a95-4659-9bc8-06caf1156df3,Boogie Smart Home,Smart Home,Smart Light Bulb
+46b46cd1-a93b-4b47-98f0-16675bf23bfb,Boogie Office Equipment,Office Equipment,Desk Chair
+f4644741-0684-40f3-9ea3-43b5140fe396,Boogie Personal Care,Personal Care,Electric Toothbrush
+0effce37-9751-42df-a6f9-17a720f620be,Boogie Office Equipment,Office Equipment,Laser Printer
+1dbb4f28-349c-409e-9442-4969988e51eb,Boogie Photography,Photography,DSLR Camera
+94589340-a36b-4156-bc42-f0309a603969,Store Fitness,Fitness,Fitness Tracker
+179d1521-f6c7-4878-9a64-4d6e337d3e63,Store Home Appliances,Home Appliances,Dehumidifier
+aba6050c-100c-40a0-a906-0b3344c5ac69,Discount Kitchen Appliances,Kitchen Appliances,Coffee Maker
+504706d5-c88e-4604-8d83-67becab9938c,Discount Smart Home,Smart Home,Smart Light Bulb
+e937c402-96f6-4b55-87cf-cb1c81b66ea3,Discount Electronics,Electronics,Smartwatch
+d55b7e23-c6c4-4cf5-9915-2bf8558eb3f4,Discount Entertainment,Entertainment,Television
+bfbff53b-d621-41e1-a7ee-e745c6b577ca,Boogie Electronics,Electronics,Wireless Earbuds
+c8f3b534-847c-45df-bfbf-3119414ffcaf,Boogie Personal Care,Personal Care,Hair Straightener
+755fe393-f036-42f5-ad54-2639d2eaf31a,Boogie Office Equipment,Office Equipment,Desk Chair
+03306676-f242-4cc8-8a67-ecf673d7e05d,Discount Kitchen Appliances,Kitchen Appliances,Food Processor
+2456ac12-ae56-4ed8-a0db-51cf9a8f4462,Discount Gaming,Gaming,Gaming Mouse
+0aba1b7b-474e-4167-b98c-c07ce86128a5,Discount Entertainment,Entertainment,Blu-ray Player
+c50d34a3-9069-4622-b06a-eac9d6efcc1b,Discount Office Equipment,Office Equipment,Keyboard
+264e13ec-d9b4-4038-a5db-8d1b8021fe16,Boogie Office Equipment,Office Equipment,Office Desk
+79ef773b-ee06-48f1-af32-d000390416f0,Discount Personal Care,Personal Care,Hair Dryer
+60d9ed75-3760-4512-9c3f-9e8f649c9eed,Boogie Photography,Photography,Camera
+09472774-1f21-4cdd-8bbc-5f062ff78f6b,Boogie Kitchen Appliances,Kitchen Appliances,Air Fryer
+61b2a3c4-7b1f-4781-8177-14d748ca88e1,Boogie Entertainment,Entertainment,Television
+33929936-72e0-4ae2-966f-2f9e6967eda5,Boogie Office Equipment,Office Equipment,Laser Printer
+d8c6b9b7-2470-41b5-b74a-5ce7520ae797,Discount Personal Care,Personal Care,Electric Shaver
+a8963bcc-187a-439b-bb81-face54acdd56,Discount Office Equipment,Office Equipment,Desk Chair
+6dc46ae0-8bb2-4008-ba99-766a62d10797,Discount Office Equipment,Office Equipment,Router
+9568af26-4c8f-4771-8643-9a3f2366d1ce,Boogie Entertainment,Entertainment,Television
+34a463ef-367a-4b3f-a27a-8524e243035c,Boogie Home Appliances,Home Appliances,Robot Vacuum
+b5c63210-4072-4829-bc8f-216cfd4cd00c,Boogie Office Equipment,Office Equipment,Inkjet Printer
+30be3c0a-e68c-47bd-bb91-8162e8e75517,Boogie Office Equipment,Office Equipment,Monitor
+63a33833-df6c-4074-90de-2a27c42334ef,Boogie Personal Care,Personal Care,Hair Straightener
+0464d3c8-5d0d-4732-981a-852e7e12eac5,Boogie Office Equipment,Office Equipment,Laser Printer
+f532f57f-9385-4a2f-84d3-50a51a2cee02,Boogie Fitness,Fitness,Exercise Bike
+07f6dbb7-46d3-4181-830a-4777ba4baf8d,Store Electronics,Electronics,Laptop
+36f074ed-8077-463b-a9ce-226a7de6c073,Store Photography,Photography,DSLR Camera
+38d4ad03-74b9-4c56-a581-9642200e4874,Store Gaming,Gaming,Gaming Keyboard
+180cc125-94b9-41a6-8b0e-13d144fe1cc3,Store Office Equipment,Office Equipment,Printer
+fbeb1a54-657f-41c1-a644-cb6ec60ca5c9,Store Electronics,Electronics,Smartphone
+55049cb1-0d16-420c-adb7-1a7776573e50,Store Gaming,Gaming,Gaming Mouse
+44939c44-f750-44d3-a19f-23c2a480957e,Store Gaming,Gaming,VR Headset
+59f34c2f-0ddc-4603-a153-d8a029687608,Boogie Fitness,Fitness,Fitness Tracker
+a2860871-987f-401c-a0ac-921a8186c7e3,Discount Kitchen Appliances,Kitchen Appliances,Coffee Maker
+f41510b0-a6e1-41b7-9e48-fa395d3bf9e5,Discount Smart Home,Smart Home,Smart Home Hub
+dd2a0ad1-bae1-43cb-b8ab-0bcf2c3f2a49,Discount Gaming,Gaming,VR Headset
+e3d8e00d-a878-44c3-afde-ed6111767e1d,Store Electronics,Electronics,Smart TV
+ec8302c5-834d-43c9-8fcb-8508553baea6,Store Home Appliances,Home Appliances,Water Purifier
+a05a84e3-0a77-493d-a55e-decdfa896d64,Boogie Fitness,Fitness,Treadmill
+84422cc3-d1e0-4a0c-b3bf-c64cfb201e63,Boogie Electronics,Electronics,Smartwatch
+168ee88a-5dbe-40d0-bf94-e152d9419ee4,Boogie Personal Care,Personal Care,Electric Toothbrush
+8910b8f2-dc02-4d2d-a8ec-f985549a1381,Store Kitchen Appliances,Kitchen Appliances,Pressure Cooker
+9c0fb253-91ee-450e-910c-b2cfe86158f1,Store Personal Care,Personal Care,Hair Dryer
+3b55fe0b-b27c-4114-8918-97d3107e6b86,Store Electronics,Electronics,Smartwatch
+971a4be5-c05a-415d-abc0-05ce127820e7,Boogie Fitness,Fitness,Yoga Mat
+4a0e64a4-cc38-4d42-b1f1-0ce5dd1fbe7b,Boogie Home Appliances,Home Appliances,Refrigerator
+4a88ac73-2c11-44cd-9c64-7181e88c4f47,Boogie Gaming,Gaming,VR Headset
+476ab6e2-ecc4-4eda-8c5e-f38bc9ac9695,Boogie Home Appliances,Home Appliances,Space Heater
+f1cd7a9f-96ef-4aa3-b0e8-cea0a119b721,Boogie Smart Home,Smart Home,Smart Home Hub
+261198a9-6576-4408-9059-743019bde701,Discount Personal Care,Personal Care,Facial Steamer
+941f35c1-b89c-444b-b527-e09e364053ef,Discount Kitchen Appliances,Kitchen Appliances,Slow Cooker
+4177938d-8410-4416-a9b7-8e91e1f64b77,Discount Home Appliances,Home Appliances,Water Purifier
+681c0d2f-df40-4ef6-81f6-845251058fae,Discount Electronics,Electronics,Tablet
+57f1eca6-a421-48e2-bebd-aff550b3fddb,Discount Gaming,Gaming,Gaming Console
+aadfba87-85b8-4192-b2cd-f98650f6b2a8,Discount Kitchen Appliances,Kitchen Appliances,Stand Mixer
+2530dca2-3c35-4b7d-955f-abe00ee81c3b,Discount Electronics,Electronics,Wireless Earbuds
+35a2f925-70a7-454b-97af-a9b5bf8a2c73,Discount Smart Home,Smart Home,Smart Home Hub
+886c79a8-26c0-427b-be75-9b7b04f6da35,Discount Gaming,Gaming,Gaming Console
+7641de70-d277-4bf5-a609-428c1cfa6ff0,Boogie Electronics,Electronics,Smartphone
+3d5bfe54-5e42-4b3a-a3cf-371f372e8057,Boogie Gaming,Gaming,Gaming Console
+af95b20a-5ada-4c29-a0bb-00e63532696c,Boogie Fitness,Fitness,Treadmill
+797bfece-0777-4852-be67-1de0882c17eb,Boogie Photography,Photography,Camera
+d762a515-1e2b-4768-961e-dc6b23aca869,Discount Entertainment,Entertainment,Home Theater System
+b8c27a8b-17a9-4f51-ad8d-b2b337e621dc,Discount Electronics,Electronics,Tablet
+d461830c-9b63-4c50-b672-b45bd74ca711,Store Home Appliances,Home Appliances,Vacuum Cleaner
+da6d5115-c97a-4a76-bd77-f148bed98bd6,Store Home Appliances,Home Appliances,Water Purifier
+66a9c1cb-0806-498e-a15f-98657c4a7484,Store Kitchen Appliances,Kitchen Appliances,Air Fryer
+26420ca7-b09c-466f-9fb8-21c98c39309a,Store Home Appliances,Home Appliances,Electric Blanket
+8c985736-af52-4a5f-bd58-cfc2b4189fb9,Boogie Home Appliances,Home Appliances,Vacuum Cleaner
+0d121579-fb42-4c19-963a-f603f3d33362,Boogie Kitchen Appliances,Kitchen Appliances,Electric Kettle
+c5090934-ec20-4c10-aee0-3921a5970d88,Boogie Electronics,Electronics,Bluetooth Speaker
+112d053a-759d-4e7e-972a-0cfbfc25a27e,Boogie Photography,Photography,Camera
+1cf478f7-71d5-45f6-8c99-e15f0a7c22ae,Store Electronics,Electronics,Tablet
+b8bd632a-9ba9-4ba0-8ee1-ea588d5dbd0d,Store Home Appliances,Home Appliances,Refrigerator
+5fdfce9b-ffdb-4bec-a298-ac8ce814b9fd,Store Electronics,Electronics,Wireless Earbuds
+9acb9027-fea6-42e9-8f17-c395283c1bc7,Store Kitchen Appliances,Kitchen Appliances,Pressure Cooker
+0fbc3463-c261-4b75-928d-75d868a15157,Discount Electronics,Electronics,Bluetooth Speaker
+48f4fc4b-fbe6-4cef-88f9-63255c3c3e56,Discount Electronics,Electronics,4K TV
+46c9b6fb-3936-4f3b-b607-72bbc691fdc2,Discount Home Appliances,Home Appliances,Ceiling Fan
+2f659ca6-a8b2-4459-aff1-e531cd3aa1ae,Store Fitness,Fitness,Treadmill
+190bd05e-bd9e-4299-9917-7ec9fd221080,Store Gaming,Gaming,Gaming Mouse
+f1d2f60b-7dad-47eb-a475-f42326099e0a,Store Personal Care,Personal Care,Hair Dryer
+41a0cbf2-52ea-4068-b5ba-a7192caf5867,Boogie Personal Care,Personal Care,Hair Straightener
+01ad35e7-c840-4f66-9768-c7600222d15d,Boogie Smart Home,Smart Home,Smart Door Lock
+f0f769e0-f594-44cb-a481-84a5ab1f96ed,Discount Office Equipment,Office Equipment,Monitor
+e3d934e3-e10b-4256-b2b2-dfd220289648,Discount Personal Care,Personal Care,Hair Straightener
+7979a0c6-b9a7-4740-a57f-daf27b7761dd,Discount Electronics,Electronics,Bluetooth Speaker
+3bfe700c-52ff-4966-9d15-4e6cfa492e92,Boogie Electronics,Electronics,4K TV
+96cfd9b2-176f-4b6a-8d46-8e6a499a959c,Boogie Home Appliances,Home Appliances,Dishwasher
+686ba41b-a2e2-4d2d-bc55-51414aac70eb,Boogie Kitchen Appliances,Kitchen Appliances,Food Processor
+f2eb9ca1-528a-459b-bfcd-1b5e7e40abf0,Boogie Electronics,Electronics,4K TV
+63603f10-b3af-4f80-8422-3df817df096b,Boogie Photography,Photography,Action Camera
+05251e42-3adc-4ce5-b162-1b04fb110446,Store Smart Home,Smart Home,Smart Door Lock
+f5429d6d-9a5c-452a-ac9d-04a236685af1,Store Personal Care,Personal Care,Hair Straightener
+5bf3c956-4af5-4551-be71-f3ce842a6188,Store Electronics,Electronics,4K TV
+f6acc75d-62f4-48ab-a2a1-244a6490482e,Store Office Equipment,Office Equipment,Standing Desk
+0c8440f7-559b-4b01-80e3-be09dbebb9e9,Store Electronics,Electronics,Bluetooth Speaker
+a83d5aa3-33bc-4d27-af2f-2e8178722376,Store Office Equipment,Office Equipment,USB Flash Drive
+f50e5add-0580-490f-bb7b-e1860534cd86,Store Personal Care,Personal Care,Electric Shaver
+9e7e24c9-0be1-4ff2-a9c9-26e58262bcfa,Store Home Appliances,Home Appliances,Refrigerator
+a28c34fe-c2b0-47c9-8bfd-e208fa098121,Store Office Equipment,Office Equipment,Mouse
+9e6388d0-f904-4f32-b870-9ae58f7c3996,Store Personal Care,Personal Care,Facial Steamer
+4219b1b1-fae6-47a6-ba10-d640d2a771a6,Store Kitchen Appliances,Kitchen Appliances,Blender
+9d0da508-5d0e-4796-a867-3910e14f4752,Discount Fitness,Fitness,Yoga Mat
+299a86c0-4208-473b-94a4-3257452960fa,Discount Office Equipment,Office Equipment,Laser Printer
+f2196622-8967-47f4-b83f-633a24c06a3a,Discount Entertainment,Entertainment,Blu-ray Player
+cc08cc3f-6b7a-4653-8db3-e06ac1679058,Discount Entertainment,Entertainment,Blu-ray Player
+a1041b67-a42b-4066-bba0-364f0f9d8dcc,Discount Personal Care,Personal Care,Electric Shaver
+87848246-1d19-4db2-84a7-604ef4532d69,Discount Office Equipment,Office Equipment,Standing Desk
+bd3205cc-3619-4e9a-acab-f0f66b9c4c44,Discount Personal Care,Personal Care,Electric Toothbrush
+3fc4b291-1f77-4d63-9529-b7b5dec93072,Store Personal Care,Personal Care,Electric Shaver
+a907c7bb-5756-4b1b-935b-647260f8a17b,Store Smart Home,Smart Home,Smart Thermostat
+7539e25d-2bb8-4485-b7c2-ca8a84fcd002,Store Home Appliances,Home Appliances,Water Purifier
+d8477d2b-45d0-46d6-9218-b000f5a239af,Store Kitchen Appliances,Kitchen Appliances,Pressure Cooker
+d9c60ff2-bf42-488b-8496-7f13e1df311c,Store Electronics,Electronics,Smartwatch
+c05e70cd-ae2d-4186-bc92-8a49a644ccd7,Store Office Equipment,Office Equipment,Keyboard
+09f549b7-c038-4f68-9fbe-e1d4e3580edf,Store Home Appliances,Home Appliances,Ceiling Fan
+e9a1ec07-7b3a-4a5b-950c-95229f181d8a,Discount Fitness,Fitness,Yoga Mat
+aefcbbb8-bf99-47fa-a5df-5abe721951ea,Discount Office Equipment,Office Equipment,USB Flash Drive
+91034bf9-9499-4eb6-8927-1670be27adb0,Discount Office Equipment,Office Equipment,Inkjet Printer
+b396f36a-1596-409f-bf78-c8081b9a74d3,Discount Electronics,Electronics,Laptop
+edcd27b3-0663-4fd3-b9b0-8481ddb0b774,Discount Photography,Photography,Action Camera
+773b1196-8b09-41af-a179-613ee959e6e4,Discount Office Equipment,Office Equipment,Monitor
+314bbdfa-d2c7-4849-bd4b-23ccaf959a14,Store Personal Care,Personal Care,Electric Shaver
+7e905e95-89b0-4804-9e35-ac3d024d5bb1,Store Photography,Photography,Action Camera
+6c7d6204-c04a-4fbc-9949-640e0590f194,Store Kitchen Appliances,Kitchen Appliances,Electric Kettle
+63c8f312-acc8-4806-a3a0-7d3b6e42aac8,Store Gaming,Gaming,Gaming Mouse
+1c1b5752-b880-4843-b5c1-9515688d2bd5,Store Entertainment,Entertainment,Blu-ray Player
+26e8fb23-1971-4797-bbd0-17d384f2fb3a,Store Home Appliances,Home Appliances,Dryer
+1da164c5-0b22-4d90-9b12-47bfcf62c4a7,Store Home Appliances,Home Appliances,Electric Blanket
+329abc31-a82d-4f1d-840c-2070d27f5594,Store Home Appliances,Home Appliances,Dehumidifier
+f74d08ac-63e8-4937-8016-19298a105f95,Store Fitness,Fitness,Exercise Bike
+003f2102-4c61-4789-8a96-7e3722448c12,Discount Kitchen Appliances,Kitchen Appliances,Pressure Cooker
+616ed2f4-2f15-447f-a42f-d2586591ffc3,Discount Electronics,Electronics,Smart TV
+3cc1d293-0102-460d-bc51-afc955e7fd11,Discount Electronics,Electronics,Tablet
+ade51941-b590-4a97-951d-ad37a3a5dff8,Boogie Office Equipment,Office Equipment,Inkjet Printer
+19d159c7-5ee7-4b0f-909c-95060741bc69,Boogie Electronics,Electronics,Smart TV
+67b7d052-63e4-44d3-a1ad-a61a830a797a,Boogie Kitchen Appliances,Kitchen Appliances,Toaster
+cefdf7ce-7760-4db2-b0fe-3dc835a23c6e,Boogie Photography,Photography,DSLR Camera
+98112b87-d090-4c2f-9ab6-89c79fc34166,Discount Entertainment,Entertainment,Home Theater System
+a1b71b95-b56d-4df4-a51e-49fddb63f8b0,Discount Personal Care,Personal Care,Hair Dryer
+3a615ef4-6ae6-42d9-a093-85d0202b9d80,Discount Kitchen Appliances,Kitchen Appliances,Coffee Maker
+517d432e-a1b0-4df6-b001-caf0880caebc,Store Home Appliances,Home Appliances,Ceiling Fan
+ab94cac0-64c0-4e0c-9c8f-a82b136d8144,Store Electronics,Electronics,Smart TV
+f8f3871a-f8ec-435b-b71f-44a80afae540,Store Kitchen Appliances,Kitchen Appliances,Air Fryer
+9c942ab8-3773-4e71-9f16-8aa61640819d,Boogie Personal Care,Personal Care,Hair Dryer
+c4d73c4f-09d3-42e7-9dc6-b3dc882c092e,Boogie Office Equipment,Office Equipment,Inkjet Printer
+b55c5392-b58b-4701-8d96-971e7afb570a,Boogie Fitness,Fitness,Fitness Tracker
+a70c99dd-d5d6-4ebd-8633-2538214ab83c,Store Smart Home,Smart Home,Smart Light Bulb
+e55eeb47-9cf8-4f7c-a3e0-c6f72cdde145,Boogie Personal Care,Personal Care,Electric Toothbrush
+65d72260-8b03-45c0-9a51-618fdad3eb79,Boogie Home Appliances,Home Appliances,Vacuum Cleaner
+32ce0a5f-34ed-4eb5-80e0-08d9b38f513b,Boogie Office Equipment,Office Equipment,Mouse
+4c8fa568-04e0-49e0-a95c-56976fb51a14,Discount Kitchen Appliances,Kitchen Appliances,Toaster
+c654ee12-cb95-4970-8326-aa50a29ba504,Boogie Fitness,Fitness,Treadmill
+b8e729b2-96bf-4991-955c-8cfed9498785,Boogie Home Appliances,Home Appliances,Washing Machine
+91cc1c18-398e-4cb4-aba1-59ac3a1e0f5c,Discount Kitchen Appliances,Kitchen Appliances,Coffee Maker
+a23de55c-7a99-4a08-9504-b13e428948f5,Discount Entertainment,Entertainment,Home Theater System
+2a77f44a-2367-4819-bb88-5fb03a1ebf58,Discount Electronics,Electronics,Laptop
+ca13d865-78d5-4a35-9397-df38a8ff507d,Discount Photography,Photography,DSLR Camera
+cf3b6bfc-714a-4168-a8d3-3239eaa3d284,Store Fitness,Fitness,Exercise Bike
+34d653bb-faa4-43c6-be4b-15d8d740b225,Store Photography,Photography,DSLR Camera
+17c5206c-13c0-4b25-a43a-c1e61f2e70ae,Store Entertainment,Entertainment,Soundbar
+e8c80e39-d8a9-4766-8f7d-9c5abff58e2f,Store Home Appliances,Home Appliances,Refrigerator
+883ea2b7-d9eb-41e5-8f8f-b3f7c752a59d,Boogie Electronics,Electronics,Bluetooth Speaker
+8c3f91d1-5506-4d6c-966e-cf963adf6ae5,Boogie Home Appliances,Home Appliances,Dishwasher
+54d915f6-bd56-4f10-9212-d7efbc11ba34,Store Office Equipment,Office Equipment,Laser Printer
+dcef016a-5684-4106-879a-35716d6b4550,Store Electronics,Electronics,Wireless Earbuds
+7190cae1-cb2c-4321-b8b8-cc792e1bde86,Store Electronics,Electronics,Smart TV
+71501083-e2a5-4c22-9f2c-c5cc44884f2f,Store Kitchen Appliances,Kitchen Appliances,Coffee Maker
+54c427ee-fa3f-4274-a1ee-35cc5ea05bad,Store Office Equipment,Office Equipment,Standing Desk
+2efb03b4-edc1-4b46-9c1c-07d0da6359b7,Store Fitness,Fitness,Exercise Bike
+a1783068-049b-4634-81ce-54949991c0a4,Store Home Appliances,Home Appliances,Refrigerator
+27b94c8b-594f-4c30-9c66-d21d8fefd8cd,Store Home Appliances,Home Appliances,Ceiling Fan
+9bdc4292-8ea2-4896-a203-db9867d9e640,Store Home Appliances,Home Appliances,Dishwasher
+300ac223-ce3c-452d-a12b-f21d3a478132,Store Home Appliances,Home Appliances,Space Heater
+baa45031-20ef-4dd7-9d29-1d3932a7dcdc,Store Office Equipment,Office Equipment,Office Desk
+0b80b1da-8e35-4aab-86af-6e8c9bd945dd,Discount Smart Home,Smart Home,Smart Thermostat
+b6e21196-14c0-4878-af5e-98bde269a24c,Discount Fitness,Fitness,Dumbbells
+718967b9-f2a8-4f2e-9f9c-3da17c688ca0,Discount Entertainment,Entertainment,Soundbar
+3a115e27-9e45-42b0-88ae-a7d84faca6e2,Boogie Kitchen Appliances,Kitchen Appliances,Slow Cooker
+cffab1ed-7b71-4704-8586-60cc81bb0a35,Boogie Personal Care,Personal Care,Hair Dryer
+aa6b1baf-e5f2-43b9-a700-556060f42d78,Boogie Gaming,Gaming,VR Headset
+077651ea-1929-46db-a654-38ade06f90c9,Boogie Kitchen Appliances,Kitchen Appliances,Microwave Oven
+634b8942-5b1b-4f29-9a5e-f19ebca95223,Store Gaming,Gaming,Gaming Mouse
+10511fc3-92a5-4812-87ea-c0fcb56c70da,Store Home Appliances,Home Appliances,Water Purifier
+b16739f7-a427-4aab-a210-bd01d6925037,Boogie Fitness,Fitness,Exercise Bike
+22077cf5-4a28-4b41-9723-28651efdf6e0,Boogie Entertainment,Entertainment,Television
+98ee4bef-607d-431b-b101-1a7441aff41d,Boogie Gaming,Gaming,Gaming Mouse
+b8e77376-24ee-4152-a680-e0c781205eb4,Boogie Entertainment,Entertainment,Soundbar
+5dd018f4-056e-4834-ac83-6519e93230e2,Discount Kitchen Appliances,Kitchen Appliances,Electric Kettle
+9281ca38-9df3-40b0-86fd-f048cce1a182,Discount Electronics,Electronics,4K TV
+aa09ec8f-43ee-4cda-9ea1-233692b39a6f,Store Electronics,Electronics,Smartwatch
+e1994c34-3079-4c67-8acc-59cc17bd7430,Store Kitchen Appliances,Kitchen Appliances,Air Fryer
+6156b8cb-8384-43fd-ac74-c5843f9e5172,Store Kitchen Appliances,Kitchen Appliances,Stand Mixer
+a8deac51-733e-44d6-9d94-02da238ce869,Store Entertainment,Entertainment,Television
+66b30622-eb7d-4831-8b54-ed132f7e4fd2,Store Kitchen Appliances,Kitchen Appliances,Pressure Cooker
+ee26ef10-a612-41d9-bd26-cc349a4ca041,Store Kitchen Appliances,Kitchen Appliances,Air Fryer
+0ce1a3c1-ea06-45cb-bd1e-3b75032f0eec,Store Home Appliances,Home Appliances,Ceiling Fan
+434b0ae2-871f-4455-b11d-17b6410d412b,Store Electronics,Electronics,Smartphone
+c857b766-6220-4586-bf1b-deb53c97f15a,Discount Home Appliances,Home Appliances,Ceiling Fan
+ecc83aa4-85a9-4ffb-bb9e-dbdc96446735,Discount Electronics,Electronics,Gaming Laptop
+891b00a1-9241-46e5-83c4-b68afd2f1d1f,Discount Personal Care,Personal Care,Hair Dryer
+774bf554-76ea-40b6-b16f-8d887e1bd88b,Discount Electronics,Electronics,Bluetooth Speaker
+bfa634c8-00b6-4aa2-8591-638e76f5dd00,Discount Smart Home,Smart Home,Smart Light Bulb
+2b2e691a-ec20-4208-a5e1-cddb72d0b4bc,Discount Fitness,Fitness,Exercise Bike
+ec5872e5-8dc1-4879-8476-3965982b5e6e,Discount Office Equipment,Office Equipment,Standing Desk
+d5835669-2dd3-4cb5-b2a1-ce75169e525e,Store Kitchen Appliances,Kitchen Appliances,Toaster
+4c75a1a2-4d9a-41d8-be4e-9f046ef8d42c,Store Office Equipment,Office Equipment,Printer
+ca469b54-d18c-4a89-9796-885182cfd8e9,Store Home Appliances,Home Appliances,Space Heater
+72c76847-c62d-4656-afd0-8ffca732d778,Store Kitchen Appliances,Kitchen Appliances,Blender
+bbf2d756-8440-4b19-ab80-d979f1f84c2d,Store Smart Home,Smart Home,Smart Thermostat
+406bc94d-d1be-4c96-9e69-2a6e5f83eee3,Boogie Kitchen Appliances,Kitchen Appliances,Toaster
+46930786-4bb7-4389-9477-3ff3cc9081df,Boogie Entertainment,Entertainment,Soundbar
+92af765a-8ab3-4303-99e5-3a34ff253d98,Boogie Office Equipment,Office Equipment,External Hard Drive
+445be5d3-5f27-4940-956c-cd85d4429f6a,Discount Office Equipment,Office Equipment,Monitor
+dae8b1f7-47b0-4212-bec3-a8676aaa1361,Discount Home Appliances,Home Appliances,Refrigerator
+5e86e48e-2fd8-4373-a9dc-8c76ad589e3d,Discount Entertainment,Entertainment,Soundbar
+fa67daa9-0680-4df1-835c-4a929e12af11,Boogie Office Equipment,Office Equipment,External Hard Drive
+6748bea0-0791-47b1-93b5-8d802a761c7c,Boogie Home Appliances,Home Appliances,Robot Vacuum
+9fbd3609-a38f-4109-8b7c-3dcf42b83a73,Boogie Office Equipment,Office Equipment,Router
+f1d95a0b-a705-4881-9163-0df6265619a0,Discount Entertainment,Entertainment,Soundbar
+8d3da3e8-ba88-4a60-9a72-339938f0d2b2,Discount Home Appliances,Home Appliances,Space Heater
+fdc37b0f-2b57-4164-b485-4999a83a625c,Discount Electronics,Electronics,Wireless Earbuds
+96fc9c45-8b92-4825-a8a7-15a6f4ab134b,Discount Electronics,Electronics,Gaming Laptop
+896ed33b-08f7-452a-a48d-6fd2b1e2da3e,Discount Smart Home,Smart Home,Smart Thermostat
+919dd69b-3575-4068-b242-4cb910f5f621,Discount Photography,Photography,DSLR Camera
+4a37782d-8797-4a02-9087-f6ac5e52a5c2,Discount Fitness,Fitness,Treadmill
+eca1f8f2-75ea-4ac2-ae4e-757342961993,Store Home Appliances,Home Appliances,Air Conditioner
+36cf5fc4-ce1c-4520-948e-ed7ed4985277,Store Fitness,Fitness,Yoga Mat
+5a7e99a0-2130-429e-b383-c16128744879,Store Photography,Photography,Action Camera
+471e6ef4-996b-432c-ba46-c207f9bb5766,Discount Home Appliances,Home Appliances,Dehumidifier
+6d9f8a3d-145d-4511-b940-2b5785f69fd1,Store Fitness,Fitness,Yoga Mat
+db132d96-c8cc-4c6d-90e0-6b2f9fdf4275,Store Home Appliances,Home Appliances,Ceiling Fan
+7a23aae8-1091-45c1-9832-2f30591eae08,Store Personal Care,Personal Care,Hair Straightener
+4a83320c-0227-49ab-8e6f-e220b6bd614c,Boogie Office Equipment,Office Equipment,Standing Desk
+21d144d9-1407-4a2e-b4b4-b10989fcb1fa,Boogie Home Appliances,Home Appliances,Air Conditioner
+d0de7862-55ba-4bbe-92b9-566fcd37ce8b,Boogie Office Equipment,Office Equipment,Desk Chair
+97cf113d-6444-44fb-a633-1431c6824180,Boogie Electronics,Electronics,Smartwatch
+01b90d85-f899-465c-9f62-992e205c7617,Store Kitchen Appliances,Kitchen Appliances,Electric Kettle
+ac2cda89-9720-4c3d-8819-b152e199ff6a,Store Electronics,Electronics,Smartphone
+453c9e0b-dc32-4b71-b618-a7296ee29b92,Discount Fitness,Fitness,Fitness Tracker
+7358cf7d-dd9c-46fd-9de5-f7ccb151f46b,Discount Personal Care,Personal Care,Electric Shaver
+32ce59b1-da1a-4520-a7a6-4435fe0f4713,Discount Electronics,Electronics,Laptop
+f4dc6ff2-02ca-4e83-b179-703433333691,Discount Photography,Photography,Camera
+db9d6660-4258-4da0-a2a9-b2891d17e39d,Discount Photography,Photography,Camera
+990e61b1-e4ce-40f7-b443-cba2f6372d11,Discount Electronics,Electronics,4K TV
+e6bdeec9-38fb-4555-b2f6-708e6fe184bd,Discount Home Appliances,Home Appliances,Iron
+a081f2b1-2191-4714-bbab-6a028f356c81,Discount Kitchen Appliances,Kitchen Appliances,Air Fryer
+4fba4b30-a9da-4900-add3-e138fe6c558d,Boogie Gaming,Gaming,Gaming Monitor
+950483a6-4d07-4570-b481-bc5746247023,Boogie Fitness,Fitness,Dumbbells
+acf430f1-36c1-4999-a18b-cdafdb389d96,Boogie Gaming,Gaming,Gaming Keyboard
+10c70c38-459f-44aa-bc6d-60436c917224,Store Smart Home,Smart Home,Smart Home Hub
+c491aee7-8d7a-4c35-8e5e-b1c96c0709d3,Store Electronics,Electronics,Bluetooth Speaker
+68f6317c-c25d-4e30-b1c1-9048ec489804,Store Photography,Photography,Camera
+e76fc7a7-1db0-41b3-b866-dfb2ebd26110,Discount Gaming,Gaming,Gaming Monitor
+4a70d663-489d-4994-929a-0a4c4ec8c453,Discount Gaming,Gaming,Gaming Mouse
+e536f0b2-7665-4a82-b23e-e5681e1a43f8,Discount Home Appliances,Home Appliances,Washing Machine
+0d4b6047-374b-425e-b75c-a26886c930e1,Discount Office Equipment,Office Equipment,Desk Chair
+2f9c5a85-6684-47fe-aa1b-c365a9e8ca1e,Discount Electronics,Electronics,Wireless Earbuds
+fd6b6c33-401d-479e-897d-0b5a9bfb89b1,Boogie Home Appliances,Home Appliances,Refrigerator
+7432bac9-5dfc-43aa-8abe-a397d33dc08c,Store Kitchen Appliances,Kitchen Appliances,Slow Cooker
+1cf90163-33f4-4de3-b9bf-d44220c66dea,Store Entertainment,Entertainment,Home Theater System
+d0f9fcc8-0f25-400e-8e8e-25c394a7ab7a,Store Fitness,Fitness,Dumbbells
+d8a139f4-4151-4203-ad79-b371c6534021,Store Kitchen Appliances,Kitchen Appliances,Slow Cooker
+2061c6d4-21eb-4c86-a27c-feb9b892cc8e,Boogie Electronics,Electronics,4K TV
+60cfa2b1-e40d-4526-8a09-829f67ae3545,Store Electronics,Electronics,Laptop
+31b91759-853b-4773-b6ac-1d17333cded0,Store Personal Care,Personal Care,Hair Straightener
+ebf6d2b6-51b5-4217-8e29-40d24f0fe811,Store Office Equipment,Office Equipment,USB Flash Drive
+b0c5ac29-8f1d-445b-9c35-2a8dfc7de4f3,Store Home Appliances,Home Appliances,Robot Vacuum
+c297e689-523d-42a7-ade9-bd7e8328f393,Boogie Photography,Photography,Action Camera
+2656f893-686f-40ff-a7b4-d972adbcf44c,Boogie Fitness,Fitness,Treadmill
+0e57a2b9-1d5e-4632-be4b-cd854a57d71d,Discount Office Equipment,Office Equipment,Office Desk
+8b900311-b857-4cc3-b2bc-2c31f1de6062,Discount Gaming,Gaming,Gaming Monitor
+1c1a51af-d450-45bf-947a-a86f53e33187,Store Office Equipment,Office Equipment,External Hard Drive
+60e058cd-4015-4963-a449-77ab41e5da29,Boogie Smart Home,Smart Home,Smart Home Hub
+396aeb16-84e7-465b-9ee3-e8ddc7b82082,Boogie Kitchen Appliances,Kitchen Appliances,Toaster
+19331e93-1f6e-4259-8bba-74b641a40804,Boogie Electronics,Electronics,Wireless Earbuds
+73814006-c911-4879-824b-d3588ebc94ce,Boogie Kitchen Appliances,Kitchen Appliances,Food Processor
+5be677b0-6ec5-4023-950d-eaba8fe7bb42,Boogie Photography,Photography,Camera
+d787961a-0d30-4dc2-841f-3fe9cc27f1de,Store Kitchen Appliances,Kitchen Appliances,Blender
+ffc3c05d-a984-4591-b5ba-6d7ca3d9f01d,Store Home Appliances,Home Appliances,Robot Vacuum
+d0bfba83-449d-4b34-9771-a50686ff4573,Store Office Equipment,Office Equipment,External Hard Drive
+d86e60e6-8fe7-4395-ad70-560e6e3ded01,Store Gaming,Gaming,Gaming Keyboard
+74820101-97d5-48ce-a8e6-5e6831a85fe0,Store Electronics,Electronics,Smart TV
+c91d5e53-319d-4f8f-809d-93638efe23f6,Boogie Smart Home,Smart Home,Smart Light Bulb
+4b73f501-ae07-48ef-aede-5fb7f1c90596,Boogie Home Appliances,Home Appliances,Vacuum Cleaner
+abf978b4-6a32-43cf-8c13-aba9d8f3d493,Boogie Office Equipment,Office Equipment,Mouse
+bc769f27-2ab2-4300-b2eb-625aa160291b,Store Fitness,Fitness,Dumbbells
+186395b0-98b6-4583-a692-b4dd0bc5fff9,Discount Home Appliances,Home Appliances,Vacuum Cleaner
+ea2e288b-1555-4343-9a65-a721cd5acbb2,Boogie Personal Care,Personal Care,Hair Dryer
+67fda486-1c72-4f05-97a9-31889d229d84,Discount Home Appliances,Home Appliances,Dryer
+889b5fce-d35b-44f6-b516-3daf697a9dfe,Discount Office Equipment,Office Equipment,Router
+77d149b3-6fbd-44f8-809e-4d1d5f56219f,Discount Electronics,Electronics,Tablet
+ea952446-b5bc-4651-92b4-e49f4e6f736d,Store Gaming,Gaming,Gaming Keyboard
+b2ff219d-c1cd-4755-b094-89cd57b14560,Store Kitchen Appliances,Kitchen Appliances,Slow Cooker
+3d8bf4cd-6b72-481f-8b9f-f2b6ef2e4c54,Store Gaming,Gaming,Gaming Console
+82680962-acd6-46bb-a963-108293d4e3c8,Store Personal Care,Personal Care,Electric Toothbrush
+88b05bd3-a2df-494e-bb92-4be4a0c64c73,Store Fitness,Fitness,Yoga Mat
+12eaee10-ebd1-4210-bff7-8886bd955ad7,Boogie Home Appliances,Home Appliances,Washing Machine
+51b356f5-9ba7-4da9-8bf1-bfd1bd4f26ca,Boogie Kitchen Appliances,Kitchen Appliances,Microwave Oven
+fe25c652-c1dc-4213-bc10-0c26f01cab1b,Boogie Gaming,Gaming,Gaming Keyboard
+4b92b122-652b-4def-a115-3236c561e14b,Boogie Office Equipment,Office Equipment,USB Flash Drive
+4b011f22-08a5-46e0-8ceb-aa6ff621a5a5,Boogie Photography,Photography,Camera
+974fab6f-ccff-4ab8-8ac8-e0e0dcf440fc,Boogie Home Appliances,Home Appliances,Air Conditioner
+d22fcc10-1f67-48c8-b047-e28a401a7fd9,Store Electronics,Electronics,Laptop
+9a2f88ae-b2c1-4978-9b0d-225f08194980,Store Fitness,Fitness,Exercise Bike
+489a45bf-901d-4f25-8111-c87dd845d367,Store Electronics,Electronics,Bluetooth Speaker
+8714ef3a-953c-479a-b05f-e6ad689bbcf0,Store Home Appliances,Home Appliances,Refrigerator
+dc2fcbc3-7eb5-4ef2-ae60-e02ff5cf5d04,Store Home Appliances,Home Appliances,Water Purifier
+184ac7f5-d75c-4472-a66e-4e8ebf90dc9c,Discount Fitness,Fitness,Yoga Mat
+d3a4156e-5666-4368-aa28-bec700625dfd,Boogie Home Appliances,Home Appliances,Robot Vacuum
+604eb7af-15fd-402a-acf0-9c528bae0e93,Boogie Fitness,Fitness,Dumbbells
+b0517738-d55c-4e40-baa1-3950d5a80257,Store Smart Home,Smart Home,Smart Light Bulb
+f41e4849-37c9-463e-891c-66cae24c29db,Store Entertainment,Entertainment,Home Theater System
+97e9c295-16fe-4dce-a671-b684d04e6dec,Boogie Kitchen Appliances,Kitchen Appliances,Blender
+458b09ce-4670-42d1-b7e3-93a98cbaa25b,Store Gaming,Gaming,Gaming Monitor
+307f8f72-e1a5-4d82-8c63-f24700082d9d,Discount Office Equipment,Office Equipment,Mouse
+548d1157-b4a6-4030-9ed0-0ff4798835a3,Discount Gaming,Gaming,Gaming Console
+12a880bc-b821-4240-a13d-f3d744c22336,Discount Kitchen Appliances,Kitchen Appliances,Blender
+4eeb30b1-b35d-4846-b059-014486e5fc95,Discount Office Equipment,Office Equipment,Printer
+ea429631-ed26-44c3-9950-d88fb8068dcb,Discount Office Equipment,Office Equipment,Printer
+582c6a5b-f031-41a2-9c4c-bea008aa6162,Discount Smart Home,Smart Home,Smart Home Hub
+e5c8d08b-96c1-40da-8d35-de32b5e77327,Discount Home Appliances,Home Appliances,Robot Vacuum
+2257a11b-4473-4a18-98dd-6cde5b2c000a,Discount Home Appliances,Home Appliances,Robot Vacuum
+9e86d65d-2e74-4edc-ba02-26ca5b24a507,Store Home Appliances,Home Appliances,Washing Machine
+e64e188e-089d-44d5-961a-ed493a5bb4a8,Store Kitchen Appliances,Kitchen Appliances,Microwave Oven
+b5bdae76-a76d-4237-81a2-4b0c229d0fa4,Boogie Gaming,Gaming,Gaming Console
+3a250d58-c0d9-4b0c-9cbf-f715324347a4,Boogie Office Equipment,Office Equipment,Inkjet Printer
+3dfa2b15-e349-48eb-ad43-9bb04bdfb6f8,Discount Electronics,Electronics,4K TV
+7723955d-d7ff-44c6-8ab7-ddab107e0e4c,Discount Home Appliances,Home Appliances,Water Purifier
+2a9c9ecc-00e0-4c69-bd80-83febf60e404,Discount Personal Care,Personal Care,Electric Shaver
+27bb9f28-c5e9-4864-90e0-7c1c280e7312,Discount Office Equipment,Office Equipment,Inkjet Printer
+ed2967f9-85ab-4e3f-9249-f66f7be34029,Discount Home Appliances,Home Appliances,Dryer
+f21b054d-4ad4-4f69-b7ac-3e4307d55609,Boogie Smart Home,Smart Home,Smart Door Lock
+2b481e9f-06f6-4b74-a356-e09a9732e5e0,Store Office Equipment,Office Equipment,Router
+95866431-9b85-4ef1-91c2-dfdeaccb6722,Store Fitness,Fitness,Dumbbells
+231e6784-e00a-4871-bbba-4ac2ebbc2043,Store Kitchen Appliances,Kitchen Appliances,Blender
+755a4684-0f40-4cc1-a08f-43d4cb81ecc1,Store Personal Care,Personal Care,Electric Shaver
+f1803634-579f-4cf9-8049-0e05ba2ce78e,Discount Smart Home,Smart Home,Smart Door Lock
+a868d601-b5a3-4475-ab91-3f73513dfd34,Discount Gaming,Gaming,VR Headset
+b0a734a9-1eb5-48c2-914b-22c3fa588d9b,Store Entertainment,Entertainment,Television
+afea6824-40d2-4a3f-b2ef-ee5d2984407a,Store Electronics,Electronics,Laptop
+c71d020a-a175-450c-974b-5eb8a4836389,Discount Kitchen Appliances,Kitchen Appliances,Air Fryer
+0d7c53fa-8233-4662-8c05-68f4cae25a06,Boogie Smart Home,Smart Home,Smart Light Bulb
+c016e96d-f95c-461e-af7d-83d79474242f,Boogie Office Equipment,Office Equipment,USB Flash Drive
+7cb69cb5-78fa-4d66-88c2-4797c5f47a67,Boogie Kitchen Appliances,Kitchen Appliances,Microwave Oven
+461e60df-87b6-4ac1-af72-1db02970ec81,Store Personal Care,Personal Care,Electric Toothbrush
+4f66c0cc-d3fb-4911-94f8-77e282598f1a,Boogie Office Equipment,Office Equipment,Monitor
+8483198c-4f9e-4e80-ad29-2fe9cc0e7b2c,Boogie Electronics,Electronics,4K TV
+93cd4295-ff0b-4511-9f4f-9174052904ab,Boogie Kitchen Appliances,Kitchen Appliances,Electric Kettle
+b03c7c0e-3f9e-48b8-9d3b-7e1886f8763a,Discount Office Equipment,Office Equipment,Inkjet Printer
+efdbcf4e-cb12-4bb6-b8be-c9f59b05a0ae,Discount Kitchen Appliances,Kitchen Appliances,Food Processor
+28c12fcb-0d4b-4081-a620-9556c67e6e04,Discount Kitchen Appliances,Kitchen Appliances,Slow Cooker
+0d97733c-9e53-496b-ad30-e8a18c7e0376,Discount Personal Care,Personal Care,Electric Toothbrush
+9cf2c7f2-a9ac-43aa-a6fa-47ab04aaed93,Store Photography,Photography,Action Camera
+63487e0c-8d47-42f8-8fc5-42e2dc514e06,Store Kitchen Appliances,Kitchen Appliances,Microwave Oven
+ab022ca7-6663-438d-b25f-8658282f4ed6,Store Home Appliances,Home Appliances,Water Purifier
+9ddb0497-3a81-49ce-88ea-145d78ee61c1,Store Photography,Photography,Action Camera
+843c5d07-036c-4ae6-b1f5-7a972d2a1b80,Store Fitness,Fitness,Fitness Tracker
+3ea38295-03be-4677-af60-d25e3250252b,Discount Electronics,Electronics,Smartphone
+dba02697-fd4d-4f71-aa8e-929af659ecdd,Boogie Kitchen Appliances,Kitchen Appliances,Toaster
+23b3c31b-69de-4546-9b73-4b5de3fabcd6,Boogie Home Appliances,Home Appliances,Iron
+26f52ccc-780a-4671-8d94-6c25850709f0,Boogie Office Equipment,Office Equipment,Router
+73141261-d60c-480a-86c3-fe3235c35649,Boogie Electronics,Electronics,Tablet
+e58c6ac6-5cd9-4068-afb7-e63a0249979a,Boogie Home Appliances,Home Appliances,Robot Vacuum
+6e554678-7b90-4366-8065-0478d46edbe1,Discount Kitchen Appliances,Kitchen Appliances,Food Processor
+eaebffdb-3d5a-4c74-9eee-67af288152c8,Discount Home Appliances,Home Appliances,Air Conditioner
+7a465566-3308-49c5-aa4d-1b188ed09384,Boogie Smart Home,Smart Home,Smart Door Lock
+aa66935b-5265-493f-bcb2-4a34faaab42e,Boogie Office Equipment,Office Equipment,Laser Printer
+ed5e4f8f-4dd7-468c-908a-3f466984e94c,Boogie Home Appliances,Home Appliances,Robot Vacuum
+4f89a5b7-fcd1-472c-9685-f7df9c5eeae6,Discount Kitchen Appliances,Kitchen Appliances,Blender
+b8d6f7b0-9235-48b2-9a26-f04a89954462,Store Fitness,Fitness,Dumbbells
+2b7daf3b-c896-456a-86c5-cb9ead373e72,Store Office Equipment,Office Equipment,Standing Desk
+b4fe1bb3-0e70-4347-9d3f-38d61a41a499,Store Home Appliances,Home Appliances,Space Heater
+6179fe92-061c-4340-8eec-00b3735d0d2b,Store Smart Home,Smart Home,Smart Thermostat
+fd6c48ac-6ab5-4a24-ae9a-3bd7605f4074,Store Electronics,Electronics,Smartphone
+55e48a17-1914-4d4a-8088-c0f15141630e,Store Kitchen Appliances,Kitchen Appliances,Food Processor
+1b08ce12-59ee-401b-9f11-af950d92e510,Boogie Office Equipment,Office Equipment,Standing Desk
+1ee6eb59-4969-4450-a694-f9f45dafe866,Boogie Office Equipment,Office Equipment,Printer
+067ca20f-ab4f-45e1-b414-a68ba1d535a7,Boogie Home Appliances,Home Appliances,Dishwasher
+62ae4b2b-390f-4ce3-85fc-ebd5bfe57ccb,Discount Fitness,Fitness,Fitness Tracker
+81fd4cae-a910-47ce-bcff-0139c046e3ad,Discount Office Equipment,Office Equipment,Inkjet Printer
+6bb940d9-6a95-485e-959a-2c7eefb93c6b,Discount Home Appliances,Home Appliances,Space Heater
+4cbf8c11-3cbe-4997-b73a-848895d5bed4,Discount Entertainment,Entertainment,Home Theater System
+93f6b5c3-3440-401f-836c-8ddd63d9dd74,Discount Home Appliances,Home Appliances,Vacuum Cleaner
+fbf5e8d2-146b-40bf-91e7-e7658c35ed9f,Boogie Kitchen Appliances,Kitchen Appliances,Slow Cooker
+f03e4ff0-104a-4da6-b963-623adf0341ff,Boogie Electronics,Electronics,Smartphone
+f6e7fc23-30cd-4bcf-9b80-a462dc7775f1,Boogie Smart Home,Smart Home,Smart Door Lock
+9f9a0e6d-37f7-4cc0-b265-d5f17c86204e,Store Home Appliances,Home Appliances,Iron
+57f8ff19-78de-4b21-8606-66825bbfa06c,Store Personal Care,Personal Care,Facial Steamer
+d40c60b2-eeae-4447-8eff-086992723fd2,Store Kitchen Appliances,Kitchen Appliances,Coffee Maker
+eacdc3de-b61c-47a5-8ecc-43000af0f3f6,Store Home Appliances,Home Appliances,Ceiling Fan
+4bfe2e72-b40b-4e94-a06b-f144f712db76,Store Home Appliances,Home Appliances,Dishwasher
+9aac8434-559f-4b56-812b-db362d3829a2,Store Gaming,Gaming,Gaming Console
+c17d5cc2-ec21-4176-bd54-9b77fd90ebad,Boogie Kitchen Appliances,Kitchen Appliances,Air Fryer
+c8768bb8-c098-46b8-9bd9-de84c4ecd89a,Boogie Home Appliances,Home Appliances,Vacuum Cleaner
+382d92da-0e21-4cd4-a656-75d93c62af78,Discount Smart Home,Smart Home,Smart Home Hub
+40f282b2-84a8-40ba-91bc-7b51730f6cfd,Boogie Entertainment,Entertainment,Home Theater System
+42517177-fef0-4953-940d-5d587a37ff44,Boogie Fitness,Fitness,Dumbbells
+91cf27eb-44df-4d8e-aed2-cf61a8a5b424,Discount Office Equipment,Office Equipment,Monitor
+14bc8e4c-ed03-4174-8580-6d594518988a,Discount Home Appliances,Home Appliances,Iron
+84a8e2df-45c6-44f4-820e-2f604a814f5c,Store Gaming,Gaming,Gaming Mouse
+3eb8b7ef-82da-4c8e-9c42-f268a063cfb9,Store Electronics,Electronics,Smartwatch
+306c55f4-ce57-45c0-b228-feddd6ce7e2b,Boogie Kitchen Appliances,Kitchen Appliances,Slow Cooker
+eef842bc-637c-4ce5-afa1-23efd0934ed0,Discount Photography,Photography,DSLR Camera
+eb935ce5-e7b2-44a5-9af7-4f08525c03c2,Boogie Office Equipment,Office Equipment,Office Desk
+46ff917f-6061-422c-9b35-7c8751b26834,Discount Smart Home,Smart Home,Smart Thermostat
+8d31a214-f8f0-473e-98d4-7db8d1a9e306,Boogie Office Equipment,Office Equipment,Keyboard
+8883d950-2205-4bd2-bdca-265151792cbd,Boogie Office Equipment,Office Equipment,Router
+8cef2e17-cf43-45c0-ba84-46805b6764dc,Boogie Office Equipment,Office Equipment,Printer
+9d698623-596d-4327-ba70-916699d3ff2d,Discount Kitchen Appliances,Kitchen Appliances,Air Fryer
+3de18661-ef4a-4152-b77e-66df35829d2d,Discount Photography,Photography,DSLR Camera
+83781349-25bc-451e-b9c8-2e8d6cda58d4,Store Fitness,Fitness,Fitness Tracker
+66b7ec9b-2cb6-4f75-a660-55df178a82b2,Discount Home Appliances,Home Appliances,Electric Blanket
+69fe989a-1f73-4308-9e25-98e994795464,Discount Fitness,Fitness,Exercise Bike
+d13bc62d-32db-4018-97cd-2621b89693e8,Boogie Photography,Photography,Camera
+4916d8b6-4425-49b5-9352-63941b28982f,Boogie Photography,Photography,DSLR Camera
+fc737826-2fef-4dd8-92a2-1e2f225a6122,Discount Kitchen Appliances,Kitchen Appliances,Electric Kettle
+abff5d52-ef32-4bd2-89c3-a129f2fcdc40,Boogie Office Equipment,Office Equipment,Keyboard
+4d725266-03e0-4917-a1ef-23bafb797c5a,Boogie Office Equipment,Office Equipment,USB Flash Drive
+e4b9c65b-7c7b-4cea-bf28-32cc4ce22007,Boogie Home Appliances,Home Appliances,Iron
+3927dfd5-0ec2-43c4-b40a-c80162d0163e,Boogie Electronics,Electronics,Smartwatch
+236e35a6-ebfa-4b79-8f00-7ff834e1a057,Boogie Office Equipment,Office Equipment,Printer
+2c56d24e-c12d-491e-8054-406e81f4f7c5,Boogie Kitchen Appliances,Kitchen Appliances,Electric Kettle
+42f8b2af-be23-4faf-82d5-cbb0bd6bf0ad,Boogie Home Appliances,Home Appliances,Dryer
+1aca096d-90cd-4bb2-b1b5-3b233f0a8658,Boogie Kitchen Appliances,Kitchen Appliances,Stand Mixer
+525b5073-10cf-455c-baa2-df8fc7e6759f,Store Kitchen Appliances,Kitchen Appliances,Slow Cooker
+c737a8f7-af22-4666-83e6-fbc5168ca13a,Store Fitness,Fitness,Treadmill
+27bd746f-7cc0-4ad5-95fd-a7fa429da95a,Store Entertainment,Entertainment,Home Theater System
+834870d5-b94d-4ebf-a53a-dbd772e19b8c,Store Gaming,Gaming,Gaming Console
+70c19294-3335-49df-a326-a7886741edfb,Store Kitchen Appliances,Kitchen Appliances,Toaster
+48ab76a0-9708-45b5-b29a-1ccc5d9c71ce,Store Home Appliances,Home Appliances,Air Conditioner
+18720774-49ba-4592-8884-3ea99ea2d2e3,Store Kitchen Appliances,Kitchen Appliances,Microwave Oven
+4e6c71fa-cf1c-43bb-a415-980a61d99545,Boogie Gaming,Gaming,Gaming Mouse
+eb185245-b2a1-4c4b-825e-85b79476ca01,Boogie Personal Care,Personal Care,Electric Toothbrush
+94d005f8-4237-482d-919e-761e15cb4053,Discount Home Appliances,Home Appliances,Electric Blanket
+9d0373fa-5fa4-4a69-868e-91756907b1a8,Boogie Smart Home,Smart Home,Smart Home Hub
+7374bab9-a39e-41ea-b836-6b1694abea98,Boogie Entertainment,Entertainment,Soundbar
+7886f4cf-ee78-4abe-9f27-be6781107509,Boogie Entertainment,Entertainment,Blu-ray Player
+f5a1529d-86e0-42e4-85ce-3fb6378d921e,Boogie Fitness,Fitness,Treadmill
+4e3f4034-84c5-4a2c-b78d-eb3ca355d827,Boogie Home Appliances,Home Appliances,Space Heater
+394ad516-09c5-4793-94eb-f4f867c0f910,Boogie Gaming,Gaming,Gaming Console
+67504fdd-efb3-4e15-bfa5-9fc6fabcf6c7,Boogie Gaming,Gaming,Gaming Mouse
+e64e639f-b89d-4b4c-b732-3cc9003c807b,Store Personal Care,Personal Care,Hair Straightener
+0192dfda-5acc-4399-9024-4de32ba96fd9,Boogie Home Appliances,Home Appliances,Dryer
+be702172-dd1f-4864-b263-025a8181e922,Boogie Kitchen Appliances,Kitchen Appliances,Coffee Maker
+ebaebb40-4383-4c71-a02a-682a33ecb548,Boogie Home Appliances,Home Appliances,Electric Blanket
+e367c081-52bf-4b99-be7b-27cd712a2fe0,Store Photography,Photography,DSLR Camera
+c2c21b7c-0c14-41ba-b81f-4131eff648c2,Store Office Equipment,Office Equipment,Router
+5e98995a-02b9-45d2-8165-b7b45fb7955b,Store Entertainment,Entertainment,Home Theater System
+74f6a94d-3f87-4d99-b576-6281ea060012,Discount Entertainment,Entertainment,Blu-ray Player
+6f6e1043-d788-46b8-a5bd-8f94b4fc4506,Discount Kitchen Appliances,Kitchen Appliances,Microwave Oven
+da95b492-1ebf-4918-b1ba-b0832185811b,Boogie Kitchen Appliances,Kitchen Appliances,Stand Mixer
+3da5370d-adcb-4dd7-a00f-8daaa1bd1fdc,Boogie Office Equipment,Office Equipment,Keyboard
+cb8ebacc-c0ff-4f73-8084-de763f41f9d6,Boogie Entertainment,Entertainment,Blu-ray Player
+aa492692-5988-4d66-927b-9b99197c2ea3,Boogie Home Appliances,Home Appliances,Dehumidifier
+c363b0e4-3d90-4061-906c-7a4e27f241ed,Boogie Kitchen Appliances,Kitchen Appliances,Electric Kettle
+a81cde20-cb5c-44f6-8016-1103dd09ca8d,Discount Office Equipment,Office Equipment,Router
+faa06da7-f1db-4224-aff4-87ca930f36ab,Discount Entertainment,Entertainment,Television
+2d7245d7-3579-429d-82d9-5ab0425d4106,Boogie Kitchen Appliances,Kitchen Appliances,Pressure Cooker
+5b3c8f33-2e49-4a61-8e0d-8b57b42fedbf,Boogie Gaming,Gaming,Gaming Mouse
+1c9fd835-1f40-4b36-972a-cd96850dc8d8,Store Electronics,Electronics,Wireless Earbuds
+fac331ec-706a-4486-b5d9-fc3c25bffaca,Store Personal Care,Personal Care,Electric Toothbrush
+49307b19-4b5c-4c1a-ac3d-c883730b1e75,Boogie Office Equipment,Office Equipment,Keyboard
+cd35b274-9f38-4ba8-a036-3097c71b79cf,Discount Electronics,Electronics,Smartphone
+61eeec7a-1385-40c6-ae8f-ddd6e4e0a83e,Discount Home Appliances,Home Appliances,Air Conditioner
+11361687-f316-48ef-8eda-71b6a5cedd33,Discount Home Appliances,Home Appliances,Space Heater
+282447cf-0452-42cd-8061-211c523f0844,Discount Kitchen Appliances,Kitchen Appliances,Food Processor
+4b1985c2-81a1-4372-ad68-ad160611f8f6,Discount Gaming,Gaming,Gaming Monitor
+1647adb0-7cbe-4816-9a7b-c0e848232a7f,Boogie Kitchen Appliances,Kitchen Appliances,Slow Cooker
+52299d78-b896-4eff-b9d3-df48dfc75c1d,Discount Office Equipment,Office Equipment,Keyboard
+af2218cd-76c3-4437-ba52-b3e5356d62a0,Discount Office Equipment,Office Equipment,USB Flash Drive
+eaa2eac3-0e83-49f3-a96b-f70a274c8861,Store Smart Home,Smart Home,Smart Door Lock
+d81e379e-b934-4913-80df-52769e7878d6,Discount Office Equipment,Office Equipment,Office Desk
+44026cab-7c2a-48e3-8d00-54012cac3a5c,Discount Office Equipment,Office Equipment,Monitor
+65c79db9-6896-449f-98c8-b48849538587,Store Home Appliances,Home Appliances,Washing Machine
+e2be3390-de65-45fa-9ad3-eacdfc7cd133,Discount Home Appliances,Home Appliances,Electric Blanket
+7653f091-7a6e-4560-9241-d696de46b797,Discount Gaming,Gaming,Gaming Keyboard
+dbc6c532-b29e-4ad0-84d3-b40c77366070,Discount Office Equipment,Office Equipment,Mouse
+fb9eca77-d9dd-4f5c-b4d7-6f7543745771,Boogie Home Appliances,Home Appliances,Dehumidifier
+2394f7cf-731c-48e9-9187-b5f7fdc55cba,Boogie Kitchen Appliances,Kitchen Appliances,Stand Mixer
+d372dec0-ec5f-45ad-8226-ab9cc558205b,Boogie Gaming,Gaming,Gaming Keyboard
+933ed224-5ab8-4b97-ab61-f2b006ed5893,Discount Smart Home,Smart Home,Smart Door Lock
+28737864-3d90-4468-a82f-9e007a94e748,Discount Personal Care,Personal Care,Hair Straightener
+37cb7ce4-bb40-402d-b001-9e79b0f440eb,Discount Personal Care,Personal Care,Electric Shaver
+2593619d-d6ae-4071-bfef-b62971a78202,Discount Fitness,Fitness,Yoga Mat
+444bf9e1-f2fe-453e-be1d-cca51f69ed9d,Store Home Appliances,Home Appliances,Refrigerator
+03d7b335-855c-4098-8455-bf7f68f12156,Store Kitchen Appliances,Kitchen Appliances,Food Processor
+a9c017d9-7c9b-489f-83a9-7066a36f3559,Boogie Kitchen Appliances,Kitchen Appliances,Pressure Cooker
+696e9f1b-0832-48f9-83d6-8dbc1db6e593,Boogie Home Appliances,Home Appliances,Electric Blanket
+2f71f2f6-176e-4cf5-81bd-e4c4afb3c0c8,Boogie Gaming,Gaming,VR Headset
+3c0873e5-b2a6-4099-b8a1-1c5ef2fa8bf9,Store Office Equipment,Office Equipment,Mouse
+e3500ad3-e3af-4a1c-ad04-410abdad94cf,Store Fitness,Fitness,Yoga Mat
+4c56aac9-ed24-4739-a413-319521f04e3d,Boogie Gaming,Gaming,Gaming Mouse
+0f2cb704-0910-4fc5-8d86-54b3d75d7f60,Discount Entertainment,Entertainment,Soundbar
+a8c0ad33-2905-4e94-98fc-6c1d6a7e36c7,Discount Home Appliances,Home Appliances,Air Conditioner
+d32a9202-8246-44c5-9a1a-8d10caebd524,Store Smart Home,Smart Home,Smart Thermostat
+801ab29b-920d-4f3e-833a-d355d0e9d286,Store Gaming,Gaming,Gaming Monitor
+db70196e-e1d8-4f29-9301-f8e6dd32d469,Boogie Home Appliances,Home Appliances,Washing Machine
+bcbb3c44-7b05-4f32-bc0a-33364e289ccc,Boogie Smart Home,Smart Home,Smart Door Lock
+dd9f1531-1811-4ef6-b05f-9a14b98ae0aa,Discount Smart Home,Smart Home,Smart Light Bulb
+464c0a10-7a4e-49bc-9135-73d7e2a21772,Boogie Office Equipment,Office Equipment,Printer
+04425b50-c14a-4cec-bd36-e5f4f3884415,Store Electronics,Electronics,Smart TV
+adfc8b64-1b4f-4676-9de0-a093265e1134,Store Office Equipment,Office Equipment,Mouse
+a77a990c-95c4-4820-a143-718bb9143cd0,Boogie Home Appliances,Home Appliances,Robot Vacuum
+af1567e0-20d7-4410-bb43-905746bf8dc7,Store Electronics,Electronics,Smartphone
+356d32c6-069d-41f8-b5b5-56e9918d9bed,Boogie Electronics,Electronics,Bluetooth Speaker
+3c776a26-5756-4bae-b432-0b7e7f01b6c3,Boogie Gaming,Gaming,Gaming Console
+d48b4df3-1fe8-4a56-8220-5264e8c16aff,Discount Home Appliances,Home Appliances,Vacuum Cleaner
+8e4e09eb-9d55-487e-80bf-6959bea92c29,Discount Personal Care,Personal Care,Facial Steamer
+4b85964b-b1f7-4a11-91ae-7df0130bfd27,Store Fitness,Fitness,Treadmill
+4d7ca852-ba34-4fa4-b593-167c4be5a8a8,Store Smart Home,Smart Home,Smart Home Hub
+2e0eca4a-30e9-464a-affa-74c486e16cb5,Boogie Electronics,Electronics,Gaming Laptop
+b5afa03a-15e2-4bf3-b24b-79b656729713,Boogie Home Appliances,Home Appliances,Electric Blanket
+bc773f7c-de32-4c5e-a206-28593e09b405,Store Electronics,Electronics,Tablet
+75e159fc-6a5f-4300-9a38-642853a6f8d5,Discount Home Appliances,Home Appliances,Iron
+0472aa85-3fab-4e5a-b31f-a7831e0f4e8a,Store Personal Care,Personal Care,Facial Steamer
+e07cd3f2-7c86-4842-9d55-0ba57573c1d0,Store Home Appliances,Home Appliances,Dehumidifier
+e358d64b-abf5-48c1-bffa-767a07b12a94,Boogie Office Equipment,Office Equipment,Laser Printer
+81d64d99-8a8f-42c2-ab3d-f4cfbfd43796,Boogie Entertainment,Entertainment,Soundbar
+3ff78382-bb69-42ca-975c-fe23e479dd15,Discount Home Appliances,Home Appliances,Washing Machine
+d2f08856-d826-4bd7-be87-1f56b83d7a2a,Discount Office Equipment,Office Equipment,External Hard Drive
+044f68f6-4ddf-487c-aaa6-d10df705d8db,Discount Kitchen Appliances,Kitchen Appliances,Slow Cooker
+ead0ce18-65e7-4b59-8f7a-b2d84250e32a,Discount Kitchen Appliances,Kitchen Appliances,Slow Cooker
+325f63df-48d5-450d-b78c-e7c7010d1a29,Store Electronics,Electronics,Gaming Laptop
+53b64114-0cda-4eba-8633-ac024a62ed1b,Discount Home Appliances,Home Appliances,Water Purifier
+e80f601f-85a8-4305-8eb1-5d6c2a343a84,Discount Electronics,Electronics,Gaming Laptop
+98093685-9295-4153-aa36-d48f917e39a3,Discount Entertainment,Entertainment,Blu-ray Player
+59829cc8-a108-4796-8dd4-129778db672c,Boogie Fitness,Fitness,Exercise Bike
+4c4963b1-c253-4c57-a1b3-35769b7b9fcb,Boogie Kitchen Appliances,Kitchen Appliances,Microwave Oven
+7f63390f-7968-41d4-8e7a-24b765a792bb,Boogie Home Appliances,Home Appliances,Space Heater
+f2825ea3-27fc-4d9c-9823-a0c868151c0d,Store Office Equipment,Office Equipment,Mouse
+04e81b39-c3af-4acc-9f4d-027d75fb6404,Store Office Equipment,Office Equipment,Keyboard
+a1cefb86-91a3-4151-807c-c539113df90b,Boogie Personal Care,Personal Care,Electric Shaver
+406833d1-7fe8-4f98-9646-114cc0188aa4,Boogie Kitchen Appliances,Kitchen Appliances,Toaster
+a945181f-803e-432c-b18c-e5b5bb52cbbc,Boogie Office Equipment,Office Equipment,Keyboard
+c39eec85-617a-4aef-b292-76f34b04d61a,Boogie Office Equipment,Office Equipment,Office Desk
+dc00f919-0e03-446a-9ffc-0eb4e93d2e1e,Boogie Kitchen Appliances,Kitchen Appliances,Toaster
+a06a93b0-615e-4cb3-aff8-d8d20354052b,Boogie Entertainment,Entertainment,Soundbar
+b3e3c7f2-3798-44df-9d38-5070a16f4cbc,Discount Home Appliances,Home Appliances,Water Purifier
+673758c6-314f-4a51-85d5-9296dd029b8f,Discount Fitness,Fitness,Fitness Tracker
+66fd0280-1d0e-4e04-a49d-c2e9cbbcfbc2,Boogie Entertainment,Entertainment,Television
+f2e360dc-3b1e-454a-8852-e7d971b17f8a,Boogie Personal Care,Personal Care,Facial Steamer
+4b9393df-b61b-4ab2-af72-31508a80cc0c,Boogie Office Equipment,Office Equipment,Mouse
+31ec66fe-0913-4b46-bfbd-2d4532b7f697,Discount Photography,Photography,Action Camera
+4e17aeb2-f3f5-4e6b-bcee-50ad5d887af7,Discount Office Equipment,Office Equipment,External Hard Drive
+edd5dd24-6537-46c8-afd6-92c57e91eaf9,Store Electronics,Electronics,Gaming Laptop
+e1bcaa0b-663a-4cdb-86bd-a458a3f6ad26,Discount Fitness,Fitness,Dumbbells
+d8746371-4492-4c07-ada5-a5e10de958f0,Boogie Personal Care,Personal Care,Electric Shaver
+996b65c0-6a8f-4358-94b9-500a685c2021,Boogie Gaming,Gaming,Gaming Mouse
+2bd3b413-abae-40e6-991e-6b7e360a921e,Store Smart Home,Smart Home,Smart Home Hub
+55d2dae7-d8c8-4a53-a0c3-2f9814573349,Store Office Equipment,Office Equipment,External Hard Drive
+9a437afb-f513-41c8-b896-e9601ca3f930,Store Gaming,Gaming,Gaming Monitor
+c1e54470-a6ed-4e06-8f7c-6172ef0509e8,Store Home Appliances,Home Appliances,Vacuum Cleaner
+9e6e373a-50b6-4ddf-9192-d51608a4cb6d,Store Personal Care,Personal Care,Hair Straightener
+66a1ca9d-7345-40ba-bcdb-38951a3e994d,Boogie Electronics,Electronics,Smartphone
+e59d400e-ead2-4fc9-a14d-84cb2a3d1a18,Boogie Personal Care,Personal Care,Hair Dryer
+e60e15a3-3a2e-4abd-ad51-8c9c536b1e73,Store Office Equipment,Office Equipment,Inkjet Printer
+6b1f1edb-5296-474e-810e-1d25f72e71f5,Boogie Entertainment,Entertainment,Home Theater System
+901329e7-ddfd-4a85-903b-260678b2298b,Store Personal Care,Personal Care,Hair Straightener
+28211726-86a2-4712-9c7c-aa9ce8a8362e,Store Electronics,Electronics,Gaming Laptop
+0810c386-8eb1-4348-8eac-113115b4ed8e,Discount Entertainment,Entertainment,Blu-ray Player
+645f226f-0f13-43f4-b7d8-37a3cafb7d6e,Boogie Personal Care,Personal Care,Hair Straightener
+a60cd98c-9b82-45b6-b506-aefae56d88e4,Discount Home Appliances,Home Appliances,Iron
+028ca3d9-483a-4f8f-a44f-b724f0db9bcd,Boogie Home Appliances,Home Appliances,Washing Machine
+93c27343-9c94-4af1-9f97-c01a5c22fe95,Boogie Kitchen Appliances,Kitchen Appliances,Pressure Cooker
+7135027f-ab78-4743-971c-cda730cbb294,Boogie Office Equipment,Office Equipment,Router
+cb3cc17f-21d1-420e-bb69-63841cfd3a1a,Boogie Kitchen Appliances,Kitchen Appliances,Electric Kettle
+fd8bdb9d-55ed-4129-8b55-4e2502c7cde1,Boogie Personal Care,Personal Care,Electric Shaver
+54089db1-85a9-4ac7-a581-7c11809c29a1,Discount Gaming,Gaming,VR Headset
+0ef9e996-394c-4f13-a61a-ba95f7459ecf,Discount Personal Care,Personal Care,Electric Shaver
+e6f4cde3-b490-4c7f-89ba-bada05c9f5c6,Boogie Home Appliances,Home Appliances,Dehumidifier
+26df2360-8780-4af1-9eae-dd2484b899d8,Store Office Equipment,Office Equipment,External Hard Drive
+ba136a1d-a415-4e64-9779-965d95fd61cd,Store Office Equipment,Office Equipment,Inkjet Printer
+4b66ffbb-825f-4530-96e8-17d36a98bc4d,Store Home Appliances,Home Appliances,Refrigerator
+b06216ac-b0c9-49e9-8309-fb3c57d9db9c,Discount Personal Care,Personal Care,Electric Toothbrush
+04d0f2b8-0bb6-4c1a-9226-da1f20c91c43,Discount Home Appliances,Home Appliances,Robot Vacuum
+d70a745d-e527-429f-a502-2d849a8626b0,Discount Kitchen Appliances,Kitchen Appliances,Microwave Oven
+41edadc2-0cce-4b6d-8b0c-00e61b3e3e31,Boogie Home Appliances,Home Appliances,Air Conditioner
+a4c25dfd-94c5-4a4c-b87b-65301c2c3705,Boogie Home Appliances,Home Appliances,Ceiling Fan
+cc870ede-ec8b-40c7-84d5-3b22ec35c68b,Discount Personal Care,Personal Care,Hair Dryer
+b1ec3a86-079e-409a-873e-82fa07dc547f,Boogie Kitchen Appliances,Kitchen Appliances,Stand Mixer
+f29e1818-e93d-4290-a9e9-73aef10535a3,Boogie Kitchen Appliances,Kitchen Appliances,Toaster
+61c78395-626b-44b9-98e7-051dd00091fd,Discount Gaming,Gaming,Gaming Console
+1c94f6f8-199d-4429-9f10-320bec0ca56c,Store Fitness,Fitness,Fitness Tracker
+9d5962d1-d41f-4776-92cd-13428f55bfc7,Discount Personal Care,Personal Care,Hair Straightener
+58c69729-3809-42a6-8047-b4cd0d6f587d,Discount Kitchen Appliances,Kitchen Appliances,Pressure Cooker
+9e9ecdfc-e2ab-4222-9364-75f8d741e37e,Store Fitness,Fitness,Dumbbells
+0a39950c-6839-4b16-9be7-cf3015621e6f,Store Gaming,Gaming,VR Headset
+90084f05-aa88-4f6a-ab8a-f3e4995d35f3,Boogie Gaming,Gaming,Gaming Console
+9f66ca1a-8f2d-4557-8066-a69690ff9555,Boogie Home Appliances,Home Appliances,Dishwasher
+5cc8e9c0-7149-4bf8-9a54-3146a6f65bf4,Store Office Equipment,Office Equipment,Desk Chair
+3fac58e1-40c8-4e75-a2eb-fe811bf530f5,Store Home Appliances,Home Appliances,Washing Machine
+67d3dd03-5bf7-4e59-b944-01ac76bc2e47,Boogie Gaming,Gaming,Gaming Console
+5b5bb36b-a65e-4cfc-8d65-913f57410422,Boogie Fitness,Fitness,Exercise Bike
+27dfe8ad-cb89-4c5e-a7be-3b01387bac39,Discount Electronics,Electronics,Smart TV
+0b42bb24-feea-4c76-bd5c-fbc353ad20f1,Discount Photography,Photography,Camera
+26f88a35-7915-4884-8411-f60488873294,Discount Kitchen Appliances,Kitchen Appliances,Electric Kettle
+8d7c49cc-4a51-4bff-8247-c4afa540f898,Boogie Home Appliances,Home Appliances,Washing Machine
+f1275658-837a-41a8-ab0c-93760eacdba8,Boogie Kitchen Appliances,Kitchen Appliances,Stand Mixer
+9789478f-1bc0-4c44-9555-ca06967c1cea,Boogie Entertainment,Entertainment,Soundbar
+1ab44709-7796-48ee-b5c0-1a7fc903b245,Boogie Smart Home,Smart Home,Smart Thermostat
+1145f0b8-2c88-4280-96b4-c884b7b05a15,Store Electronics,Electronics,Smartphone
+d2ed75ae-b280-402f-9fd7-a6dac732fe3f,Store Entertainment,Entertainment,Home Theater System
+fe1f512d-a4ef-46fc-8733-2e8fe813d83e,Boogie Home Appliances,Home Appliances,Dishwasher
+36ff943a-f427-4773-b565-1ec72c5a95fe,Boogie Electronics,Electronics,Tablet
+15c72f89-46b9-42b2-8ee4-43cf471cf0ca,Boogie Gaming,Gaming,Gaming Monitor
+89c13c2e-bae5-4c26-b510-b6ffc490d67d,Discount Kitchen Appliances,Kitchen Appliances,Toaster
+2eb02e53-45a8-46d8-9db1-97a175355f8a,Discount Home Appliances,Home Appliances,Iron
+f77ec1a0-019a-4398-986d-2afc2b6f15fd,Store Entertainment,Entertainment,Blu-ray Player
+bbc807d5-64d5-461a-a223-dabc0fe3e806,Boogie Entertainment,Entertainment,Home Theater System
+b957acec-d421-4313-8409-e0b7f53f6962,Boogie Office Equipment,Office Equipment,Printer
+c3617911-6569-4d22-8a9b-590b9988af4d,Boogie Home Appliances,Home Appliances,Ceiling Fan
+85e51507-6b1a-44bf-9921-0fdac4416044,Boogie Kitchen Appliances,Kitchen Appliances,Food Processor
+9d127c69-8482-490e-9677-fcf2c1a2360c,Boogie Office Equipment,Office Equipment,Router
+d4181f0b-e9b4-41d9-a0ec-81aa251fa738,Discount Office Equipment,Office Equipment,Router
+680574b7-301d-4dfb-888d-f5a8bba41952,Boogie Home Appliances,Home Appliances,Dryer
+c99ff4a7-c875-48c6-bcdf-085bac253814,Store Home Appliances,Home Appliances,Dehumidifier
+0cfa13db-2fb8-4dc7-adea-87cc90566b71,Store Home Appliances,Home Appliances,Vacuum Cleaner
+58ca1c4f-60ec-48d7-82f0-f301dc3f3e8b,Discount Home Appliances,Home Appliances,Electric Blanket
+a3e500e4-dc85-4063-8420-ff7de3c6f7de,Boogie Kitchen Appliances,Kitchen Appliances,Coffee Maker
+95b44bde-4bd1-48ea-af07-3e0b3ff87af5,Boogie Photography,Photography,Camera
+cc71a065-8de6-450c-955e-bb90994af386,Discount Electronics,Electronics,4K TV
+e1934baa-04d6-4f7f-8d76-aa857afb7e2b,Discount Electronics,Electronics,Wireless Earbuds
+3351db9b-8123-4920-9beb-3f741ba69755,Discount Electronics,Electronics,Laptop
+8b9b8ae8-a5c1-453a-9a06-332bb8a6c0c0,Boogie Office Equipment,Office Equipment,External Hard Drive
+7272979f-fddf-4d07-8532-109dfe4ef171,Boogie Home Appliances,Home Appliances,Air Conditioner
+72b15fa6-9af0-4819-8393-2f868fbb847d,Discount Entertainment,Entertainment,Television
+caf18452-ee15-475d-9ac4-51bd2aed1fee,Store Fitness,Fitness,Yoga Mat
+07f60a3d-9d6a-4c6b-a5ac-9a3772252839,Store Kitchen Appliances,Kitchen Appliances,Food Processor
+e1b0d047-7d49-4544-8360-e2b701d78738,Boogie Electronics,Electronics,Smartwatch
+923a3ccb-d69e-4e76-92a9-e39fe8a32c52,Store Home Appliances,Home Appliances,Washing Machine
+0b37b50f-84bf-4030-9b93-f1fd718f18bb,Store Office Equipment,Office Equipment,Desk Chair
+46f130b2-fd26-40c4-bbfe-d73a9aca08b9,Store Electronics,Electronics,Smartwatch
+057cd53a-5214-439a-ba7f-bd053e83caa3,Store Electronics,Electronics,Wireless Earbuds
+893d92a9-a54d-466c-a3cc-12534239fdad,Discount Home Appliances,Home Appliances,Refrigerator
+092e8e71-007e-49af-9c9e-5804730144a7,Discount Office Equipment,Office Equipment,Monitor
+c741ab5f-5d1f-43b4-b674-14db9cde0483,Store Home Appliances,Home Appliances,Electric Blanket
+d430e1db-e825-4377-8922-0dc3934a97c4,Store Electronics,Electronics,Smartwatch
+6982ac8f-0d1f-4959-9e47-8df75fafb6c9,Store Electronics,Electronics,Laptop
+d9a6c599-dce7-4c7b-8f67-a883b751b673,Store Kitchen Appliances,Kitchen Appliances,Blender
+f373a68c-f73f-44d6-a137-53fdba8ca4c5,Discount Home Appliances,Home Appliances,Iron
+66d7551b-fca4-40d9-847e-548247bc0563,Discount Office Equipment,Office Equipment,USB Flash Drive
+12a93b51-08d6-4aee-b6eb-cf8958a609f7,Store Home Appliances,Home Appliances,Electric Blanket
+ff192ac3-3c1b-46be-9a5f-3b78d9f18b7e,Store Electronics,Electronics,Laptop
+64407e33-e90c-44f3-acdd-1b2a4aa4d645,Discount Kitchen Appliances,Kitchen Appliances,Air Fryer
+3d076354-5b1b-4ff2-ba6c-a2f6164311f5,Discount Office Equipment,Office Equipment,USB Flash Drive
+e7819742-952a-45e0-83eb-a04ea0345df5,Store Gaming,Gaming,VR Headset
+376ea68a-6d26-43df-9146-d3a3e81e0d29,Store Office Equipment,Office Equipment,Printer
+eec859e7-0cf5-48ac-ac37-6ee1149f018f,Store Electronics,Electronics,Tablet
+44a225e0-79d1-4cd5-95cd-3f09dd3df876,Store Electronics,Electronics,4K TV
+b8012549-05ba-450d-98fc-ae6f8001fab1,Discount Smart Home,Smart Home,Smart Light Bulb
+8c2acc71-ce51-4694-ac09-bd574901664c,Store Smart Home,Smart Home,Smart Thermostat
+7a76fd22-db80-4549-a175-c45ba9f94389,Store Kitchen Appliances,Kitchen Appliances,Toaster
+d2fa15b6-b7d8-43ac-9239-45ab0efa14bd,Boogie Gaming,Gaming,Gaming Monitor
+4c61bc5a-6b78-4527-bdb8-7c833f498032,Boogie Home Appliances,Home Appliances,Washing Machine
+4d0c571c-19a9-4a6d-b110-d12ff037bd4d,Boogie Home Appliances,Home Appliances,Dishwasher
+544b2e97-905b-4b2b-acf6-24562a5c49a6,Discount Personal Care,Personal Care,Facial Steamer
+d2bfb071-b60d-416c-b4d5-b6e695efa06e,Discount Smart Home,Smart Home,Smart Thermostat
+5414f959-f5dd-4514-b519-14b4e0800b70,Discount Home Appliances,Home Appliances,Dishwasher
+e8efc361-e00a-48f2-88cf-bc690214e346,Discount Photography,Photography,DSLR Camera
+8b5fe72f-449d-4c8b-a1b4-8004082cc6dc,Discount Electronics,Electronics,Bluetooth Speaker
+30615741-e2d1-4caf-a572-538a295282bd,Discount Gaming,Gaming,Gaming Monitor
+515dad57-4537-4cbf-aef7-e83ec9964013,Boogie Electronics,Electronics,Laptop
+370b6796-c050-433c-81af-44f7a239508f,Boogie Personal Care,Personal Care,Hair Straightener
+697600a3-0a04-4a3d-bbc4-8f1282c9ee11,Store Electronics,Electronics,4K TV
+87039763-4c6a-432f-82f1-9ff8352b0fd1,Boogie Kitchen Appliances,Kitchen Appliances,Air Fryer
+c2bdba2f-ebcb-4732-b455-fa0f8ece64a4,Store Personal Care,Personal Care,Facial Steamer
+429291a3-b1ac-4603-a8ce-aa54ce9ea814,Store Home Appliances,Home Appliances,Dryer
+c599fa58-cdbc-4254-8d26-821069916460,Store Fitness,Fitness,Yoga Mat
+967bb09a-992d-412f-8674-d24e6ba161e3,Store Entertainment,Entertainment,Television
+98b43ba6-ae4d-4e52-af87-99dc200d9498,Discount Smart Home,Smart Home,Smart Home Hub
+5ce1efa2-16b3-46e6-930c-a4884262a0aa,Boogie Kitchen Appliances,Kitchen Appliances,Microwave Oven
+ad4d6a11-00fa-4925-88b2-090a437d7a42,Discount Electronics,Electronics,Gaming Laptop
+56d2b25d-b833-417c-a0b6-3142145fc70d,Discount Entertainment,Entertainment,Blu-ray Player
+bd679247-447b-40ec-a66a-4a6f77b4d91a,Boogie Kitchen Appliances,Kitchen Appliances,Microwave Oven
+a801c706-9605-456e-ba73-a1c2ffc3ce48,Store Fitness,Fitness,Exercise Bike
+f9470daf-0618-4b9b-b999-3f3a8fe25e38,Store Entertainment,Entertainment,Soundbar
+fa797892-78e8-471f-83dd-9a94e208432d,Boogie Kitchen Appliances,Kitchen Appliances,Slow Cooker
+e2a6406b-330b-49d7-a7e0-ae17981ea1fb,Store Home Appliances,Home Appliances,Space Heater
+49920ebb-59b9-473b-ab0d-35c9a9905e61,Discount Home Appliances,Home Appliances,Washing Machine
+e1f481a3-5217-4b9c-982d-02620a5c6fa5,Discount Personal Care,Personal Care,Electric Toothbrush
+74680733-bec1-4434-824b-1a4fcf38d006,Discount Entertainment,Entertainment,Television
+0edae1d4-09f4-4e78-8605-26fb9a897e0a,Discount Electronics,Electronics,Wireless Earbuds
+1c9c140a-3f6e-46ad-924f-d711421de0a3,Store Smart Home,Smart Home,Smart Door Lock
+d2687d9f-52a1-4074-8ef7-2436263a8ba3,Discount Office Equipment,Office Equipment,External Hard Drive
+4a274094-34be-4b4a-9cfe-ee9a4e50c180,Discount Electronics,Electronics,Laptop
+72fe4c83-1677-4efb-82fe-f85880f0882f,Discount Office Equipment,Office Equipment,Laser Printer
+df79a654-abb0-4c9e-932a-7005efcc0367,Discount Entertainment,Entertainment,Home Theater System
+da7d685c-597b-4a84-86ac-ea212e2893ce,Boogie Home Appliances,Home Appliances,Air Conditioner
+17299ce8-1ed5-460f-9f04-488f4c2be29c,Store Personal Care,Personal Care,Hair Dryer
+01e5893d-52c5-41e1-b3f7-428394bc01d5,Discount Fitness,Fitness,Yoga Mat
+f618bdab-2d85-4eb2-8304-b5936d43ff54,Discount Home Appliances,Home Appliances,Dehumidifier
+82686464-bcd6-425c-b9c5-da3307054509,Discount Kitchen Appliances,Kitchen Appliances,Food Processor
+e0949ea6-f7cb-4479-943d-eb61af3ebeab,Discount Office Equipment,Office Equipment,Printer
+3271c39c-dafd-4322-8581-58b613f228e3,Discount Electronics,Electronics,Laptop
+1113c6c0-cd50-4acb-b77f-d915a9c87d86,Boogie Kitchen Appliances,Kitchen Appliances,Food Processor
+3bb1749f-06de-4e4f-b81d-f7bd3c2a6263,Store Photography,Photography,DSLR Camera
+a3a8caaa-8f59-4732-bb02-acc0bd457e4f,Store Office Equipment,Office Equipment,Standing Desk
+0fd8f492-18aa-451a-b560-9106e2571169,Discount Kitchen Appliances,Kitchen Appliances,Food Processor
+c78e0c36-8ec8-4f45-bed3-e1ed10948385,Store Home Appliances,Home Appliances,Robot Vacuum
+470084cd-3a53-49b5-b555-0e32ad39afa3,Boogie Office Equipment,Office Equipment,Standing Desk
+c6309bd7-dbef-4cde-958f-d79fb3ec8153,Boogie Entertainment,Entertainment,Television
+0d155846-803d-440a-8fc8-e2dd88d37829,Discount Electronics,Electronics,Smartwatch
+da326079-6f12-4f3f-854b-09b7758e4d7a,Discount Electronics,Electronics,Gaming Laptop
+81b8650e-fe2b-4a03-ba12-995b99739fc2,Discount Office Equipment,Office Equipment,Inkjet Printer
+a4707139-a805-4ee7-a824-de9492fe54c8,Discount Kitchen Appliances,Kitchen Appliances,Air Fryer
+f9b95dec-0aad-4632-89cc-8dfc3e537f45,Discount Fitness,Fitness,Treadmill
+59ed1f00-d14e-47be-a1ef-c5b04e543a27,Discount Entertainment,Entertainment,Blu-ray Player
+212545f4-4b55-456e-8a58-bdabe9483a54,Boogie Electronics,Electronics,Laptop
+68eeeac1-3882-4f8a-8b8c-a8ddb989d2be,Discount Smart Home,Smart Home,Smart Thermostat
+71a6e4c8-cb59-4947-95c0-b9b9d93d7f1d,Discount Office Equipment,Office Equipment,Printer
+84484a56-3f2c-4c0a-8d12-094193f4dcfe,Boogie Smart Home,Smart Home,Smart Light Bulb
+39be34b6-1ace-4f8b-8915-2fbc5b0d6471,Discount Electronics,Electronics,Wireless Earbuds
+85b554a9-3120-4bbf-8fad-84ee6581a5fb,Store Entertainment,Entertainment,Soundbar
+772cbc5c-5da3-4b0e-8366-ba48f272e10d,Discount Personal Care,Personal Care,Facial Steamer
+5060f79d-1703-4ec4-8f1a-0f447464bbe3,Discount Home Appliances,Home Appliances,Refrigerator
+ca5938d7-0939-4543-9dee-d21765e9f62c,Boogie Office Equipment,Office Equipment,Monitor
+833d81ab-7ceb-4365-98b3-b52cd8a8e2cc,Boogie Kitchen Appliances,Kitchen Appliances,Electric Kettle
+aabf7a53-a162-4658-bc86-241d0633fb2f,Boogie Home Appliances,Home Appliances,Air Conditioner
+23abc969-8a5a-4603-8565-e1eb9784a01e,Discount Electronics,Electronics,Gaming Laptop
+2f49656f-2a1a-48da-a3a6-b457430224b2,Store Kitchen Appliances,Kitchen Appliances,Coffee Maker
+c50fadd9-025d-493b-b87d-4bfafa818fd7,Boogie Fitness,Fitness,Exercise Bike
+8fc0407c-2599-436a-9a00-2a5c65b02336,Boogie Smart Home,Smart Home,Smart Home Hub
+faf344c8-be46-4248-9da6-4db04d793a93,Store Smart Home,Smart Home,Smart Light Bulb
+9aeb572e-2c72-4147-9fdf-9ff7666ef3bb,Discount Kitchen Appliances,Kitchen Appliances,Coffee Maker
+15bbaadc-3f23-48f1-8288-85b2ba3c6f65,Store Home Appliances,Home Appliances,Robot Vacuum
+db8eb3ec-f9fb-4ec9-bb74-ae1f9b36d425,Store Fitness,Fitness,Yoga Mat
+c6047449-0a3b-4840-802d-bcaca12304c8,Discount Office Equipment,Office Equipment,Keyboard
+f2e7ea03-7b2b-4007-9e8b-7dfebca00fda,Discount Kitchen Appliances,Kitchen Appliances,Pressure Cooker
+2b7e23e6-4db3-4f3c-8f34-65c2be11f6ff,Discount Office Equipment,Office Equipment,Desk Chair
+9ca59978-6ef7-40b6-a4f8-561b6e4e5284,Boogie Kitchen Appliances,Kitchen Appliances,Stand Mixer
+0c9306c2-073b-4a2a-a881-7678bd5e4b44,Boogie Gaming,Gaming,Gaming Keyboard
+3df8031e-bec4-44ea-867b-6f7631b1cbe6,Discount Home Appliances,Home Appliances,Dryer
+2cb21905-73df-4d95-9a6d-5535e3269721,Store Home Appliances,Home Appliances,Ceiling Fan
+84e21b13-14be-4eb8-a053-a20cd9c5b8b2,Store Home Appliances,Home Appliances,Dryer
+54493948-89e1-4cad-9785-b9155b0b86cc,Boogie Home Appliances,Home Appliances,Dishwasher
+cae58bbb-d78f-40d2-9fb1-21fb5dcc5a33,Store Office Equipment,Office Equipment,Monitor
+3ad3e4a9-4874-4b27-94c3-c64c9ed825e6,Discount Photography,Photography,Action Camera
+a212b2c4-f965-4d6f-b39d-bf64374a2474,Boogie Home Appliances,Home Appliances,Iron
+f4a0b9ba-6785-4752-a28c-4574da58e39d,Discount Office Equipment,Office Equipment,Laser Printer
+b793be3f-0e98-49a4-8947-12e7d3ba5070,Discount Home Appliances,Home Appliances,Dehumidifier
+53987744-01db-4105-b8ef-e5cfa8f25062,Store Home Appliances,Home Appliances,Vacuum Cleaner
+f78cb58c-026b-4b88-b859-4a20e2d2bf71,Boogie Home Appliances,Home Appliances,Iron
+9728aade-e31d-4d34-84a9-8ec3bedf1532,Boogie Personal Care,Personal Care,Facial Steamer
+f97bf7a8-7bca-4d13-95c4-d35bd5a3cbe7,Discount Electronics,Electronics,Gaming Laptop
+7e26d8c2-65a4-4f5e-a7dd-3f109b3c0ed9,Store Personal Care,Personal Care,Facial Steamer
+7a4924e7-e9bc-4423-be07-65c177c9a67a,Store Electronics,Electronics,Smart TV
+d76c6ef5-814e-493d-b2a3-8c8e1e536126,Store Office Equipment,Office Equipment,Mouse
+3cb89c8a-02e9-4864-9c95-42c8d3e8e32c,Discount Smart Home,Smart Home,Smart Home Hub
+fadaff0d-810b-476d-a523-53ce5eedaec5,Discount Gaming,Gaming,Gaming Monitor
+4d7316e7-2ae0-473b-bf91-1a5473b2fa79,Store Electronics,Electronics,Wireless Earbuds
+c9576dfa-a2de-4964-a42f-48a017568f36,Store Office Equipment,Office Equipment,Office Desk
+3f78f8af-208c-46c1-9177-0528884331f6,Store Office Equipment,Office Equipment,Office Desk
+ef6e5d0e-794f-4ab8-a10b-9c24f4ceb0d9,Discount Personal Care,Personal Care,Electric Shaver
+27568586-629a-4a68-9c48-4080f7f27245,Discount Smart Home,Smart Home,Smart Light Bulb
+0f7fb45a-52d9-4662-985e-24b1d63258bf,Store Photography,Photography,Action Camera
+5e0f966d-52a7-4bdb-bf04-0f0943065ca3,Discount Home Appliances,Home Appliances,Water Purifier
+ca939081-1499-4b8a-bb30-53bd956bf193,Boogie Electronics,Electronics,4K TV
+9f415bf0-842f-40b2-a288-7b36f9328693,Boogie Office Equipment,Office Equipment,Keyboard
+c2b77eee-b367-4e02-8e27-96980d26e2e2,Boogie Kitchen Appliances,Kitchen Appliances,Air Fryer
+bbdc4eb4-ba68-4b80-9b7f-9a5af56a7b15,Store Gaming,Gaming,VR Headset
+1f6c23bf-e837-4754-9bcc-5025370d6784,Store Electronics,Electronics,Smartwatch
+6e9039b7-60b0-40da-a650-46b83de292ff,Boogie Kitchen Appliances,Kitchen Appliances,Pressure Cooker
+c1242610-4442-4def-af93-9b55c09ac19f,Boogie Smart Home,Smart Home,Smart Home Hub
+a6178f35-6170-4273-a94f-82a798a07724,Discount Kitchen Appliances,Kitchen Appliances,Slow Cooker
+8cc0a4e7-b6aa-42ac-bf37-f9f986f18ba0,Boogie Kitchen Appliances,Kitchen Appliances,Toaster
+d0f93758-10df-4849-9fd4-fd61eb154355,Boogie Electronics,Electronics,Smartphone
+92362bc1-3309-4aef-80a2-ee751a86dcf9,Store Gaming,Gaming,Gaming Console
+27e8ebd6-0241-48e1-8c38-0030d454a305,Boogie Home Appliances,Home Appliances,Dishwasher
+c7cd44f7-4e98-4248-ae92-f4972ce00d4b,Boogie Fitness,Fitness,Treadmill
+6503b703-aa3b-4a23-8cda-92e79dcf2ad9,Boogie Home Appliances,Home Appliances,Air Conditioner
+405116d0-72d7-43d1-a1ac-4e3ce6429116,Boogie Office Equipment,Office Equipment,Keyboard
+28300eb4-ab53-4b3c-b06f-0b828cc7dd3e,Store Electronics,Electronics,Bluetooth Speaker
+e50d9f4e-4efa-46a5-b2d9-25ac9a72b455,Boogie Office Equipment,Office Equipment,Monitor
+94b28627-3a43-4582-be9b-91b21eed76aa,Store Gaming,Gaming,VR Headset
+b5d1db10-89a3-49f9-9838-55498abee4d9,Store Fitness,Fitness,Yoga Mat
+e5fdb594-f209-464d-ae76-bdfb3d284251,Boogie Kitchen Appliances,Kitchen Appliances,Blender
+f452e095-f31c-464a-a96d-8607d07ccf7c,Discount Kitchen Appliances,Kitchen Appliances,Electric Kettle
+a9a06b40-1997-4829-b2d1-64db04a15ee6,Store Office Equipment,Office Equipment,Office Desk
+26287361-f46c-48f9-b4f9-1bd02e922b77,Discount Home Appliances,Home Appliances,Electric Blanket
+b01d7fd5-a415-4a1e-a733-e82dd592b13c,Discount Home Appliances,Home Appliances,Water Purifier
+d6a0d0f4-5ec9-4ae1-b18e-e650333b2176,Boogie Gaming,Gaming,Gaming Monitor
+6185a195-1783-4378-84d1-0fb79c89dd0f,Discount Office Equipment,Office Equipment,External Hard Drive
+0236c606-4be0-4468-9a52-c62b5e7a96e9,Boogie Office Equipment,Office Equipment,Printer
+8ca86fb7-950e-4a94-bbf0-28f080daa9ac,Boogie Office Equipment,Office Equipment,Inkjet Printer
+becaed5d-081f-4e54-942a-10bf6f382407,Discount Home Appliances,Home Appliances,Water Purifier
+73f1a837-c65e-4181-aa80-9c5efd651059,Store Electronics,Electronics,Bluetooth Speaker
+0e6158a4-e24c-4738-9e4b-6f7dcdea8a51,Store Smart Home,Smart Home,Smart Light Bulb
+ac9dead6-60ae-436b-ba8a-2add802d2420,Store Kitchen Appliances,Kitchen Appliances,Blender
+f6df0f05-caa4-4987-b1f2-53ca14786e5a,Store Gaming,Gaming,Gaming Mouse
+8e063df4-f86d-4044-ae3e-32dfea88e9d6,Boogie Personal Care,Personal Care,Electric Toothbrush
+5713e4de-be23-4a19-9965-0faa8ef0d5c5,Boogie Personal Care,Personal Care,Facial Steamer
+5684613e-a2e3-48b2-b204-66266a886c44,Store Kitchen Appliances,Kitchen Appliances,Electric Kettle
+090f85ac-2826-4954-ba6c-d90ce493a765,Boogie Home Appliances,Home Appliances,Electric Blanket
+1a7ae356-f5ed-4c5a-90a7-7e0b32db468c,Boogie Office Equipment,Office Equipment,Router
+64e3dd3f-8319-40ed-89a5-b4a8bc482583,Discount Personal Care,Personal Care,Electric Toothbrush
+01077726-b90b-4eda-9904-55c80d661c3c,Discount Fitness,Fitness,Treadmill
+26792cf1-1320-46a2-8fc1-af8b69c9c358,Discount Home Appliances,Home Appliances,Robot Vacuum
+d40d1e05-02df-4f3e-9448-ae484845e163,Discount Office Equipment,Office Equipment,Laser Printer
+6f3cadd4-60f5-44da-a103-4734bc237815,Boogie Entertainment,Entertainment,Television
+4649acb4-c541-4603-b544-6a473e711a6d,Boogie Electronics,Electronics,Wireless Earbuds
+33b22392-3e30-45ef-b20c-9191ef753fc9,Discount Kitchen Appliances,Kitchen Appliances,Microwave Oven
+b35fdbc8-3f42-4a64-8997-78cdf25f8251,Discount Office Equipment,Office Equipment,Keyboard
+085f80be-8157-4117-b41a-45ab817c7331,Discount Fitness,Fitness,Fitness Tracker
+6e537b2f-201c-4ef5-97ed-654f050e9e44,Store Entertainment,Entertainment,Soundbar
+42bc98c0-4a47-4682-a445-8eb5d05d90d8,Store Electronics,Electronics,Tablet
+7977087e-4845-4593-aa39-f34a8acf088a,Discount Electronics,Electronics,Bluetooth Speaker
+06e0e6d4-a44f-47b5-8e16-ebdd81dee18c,Store Electronics,Electronics,Smartphone
+cb1e6b51-7705-442c-b474-518bdc8c401c,Discount Home Appliances,Home Appliances,Ceiling Fan
+4ce50b87-ecf1-4f49-bfb3-1a582711ed64,Discount Office Equipment,Office Equipment,Office Desk
+163c32bb-518a-4693-9db8-1f11e86a72e4,Discount Office Equipment,Office Equipment,Router
+1f92ed86-3a69-4dd9-91ec-4ace113ffb2c,Discount Fitness,Fitness,Fitness Tracker
+7e8c632d-5c24-4fa8-a372-3f9dc0e7fa46,Store Office Equipment,Office Equipment,Laser Printer
+6e68c702-34e5-493d-a9a5-6254a4478a80,Discount Electronics,Electronics,Tablet
+31aa99b5-47d3-46e0-a9f6-bcece394d314,Discount Home Appliances,Home Appliances,Electric Blanket
+066124e5-e00b-4044-97f2-f2e205b01280,Boogie Office Equipment,Office Equipment,Printer
+b7844a3c-c71c-4513-b753-3538f78274da,Boogie Office Equipment,Office Equipment,Mouse
+821a2ae3-5a9d-462d-bd66-fae20c7343cc,Store Electronics,Electronics,Smart TV
+a32ff967-a40c-4985-8c5e-12793ca128f0,Store Personal Care,Personal Care,Electric Toothbrush
+e3c6e204-8596-468b-bc08-a941e6b15844,Store Office Equipment,Office Equipment,Keyboard
+2624134a-c230-4923-ba85-0cdc1a7f0df7,Boogie Office Equipment,Office Equipment,Standing Desk
+3c280c6b-337e-4c0d-96df-8423927c289f,Boogie Office Equipment,Office Equipment,External Hard Drive
+f33b43ae-601d-423f-b9b2-7740cd18b708,Discount Home Appliances,Home Appliances,Dehumidifier
+443b3e06-ea89-4e12-a936-893760e973a0,Discount Photography,Photography,Action Camera
+7cf03a6f-3e37-49c2-a6a7-cd56085bab3e,Store Home Appliances,Home Appliances,Dryer
+7fa6bc48-36b1-4db3-ad70-e23498f99aa8,Store Entertainment,Entertainment,Television
+c14ec9c8-766f-475c-80df-c074eba71a16,Store Office Equipment,Office Equipment,Office Desk
+7fc1cdb8-26a8-4752-a9e1-b3e9c2ac7e03,Discount Home Appliances,Home Appliances,Water Purifier
+e73a0916-09a9-48af-aa7a-e03c166152cd,Store Office Equipment,Office Equipment,External Hard Drive
+93e7ff1b-0821-494c-a6af-2b20cdfd7e4f,Discount Photography,Photography,Camera
+5c9e97a9-0ccf-47aa-9673-f13a7922ec97,Boogie Kitchen Appliances,Kitchen Appliances,Stand Mixer
+f48f9ca7-49b8-459f-a94d-bba788e08a74,Boogie Office Equipment,Office Equipment,USB Flash Drive
+accc042f-ff69-4b66-901f-6f6f22de8e7a,Boogie Personal Care,Personal Care,Hair Dryer
+23b39581-0211-4924-9d48-4f1cae20cd3e,Store Office Equipment,Office Equipment,Desk Chair
+3d5fc0af-b879-4d2c-949b-5c667e11b7ef,Boogie Entertainment,Entertainment,Television
+c7a5dbb0-889a-4195-a659-5729b322766e,Boogie Gaming,Gaming,VR Headset
+587ed402-d9cc-4b1f-9ae3-1684384a9640,Boogie Kitchen Appliances,Kitchen Appliances,Electric Kettle
+ca1c1c5c-2f53-49e7-ac2f-5cdf41f7e598,Discount Office Equipment,Office Equipment,USB Flash Drive
+644b09e9-4903-4d0c-bd71-f131a2221a1c,Discount Smart Home,Smart Home,Smart Home Hub
+01812ac0-d29b-4c97-98b7-c8b2e23af56e,Boogie Office Equipment,Office Equipment,Laser Printer
+29021e06-6c50-45ff-bc7e-08deead3d939,Store Smart Home,Smart Home,Smart Light Bulb
+c6855a79-90c8-4fe2-a2c0-ea1e32e009e9,Store Photography,Photography,DSLR Camera
+300f8d00-34d2-4acb-a5f0-517743398802,Store Gaming,Gaming,Gaming Keyboard
+5091ec03-1fa3-434c-876a-c96831c665fc,Discount Kitchen Appliances,Kitchen Appliances,Blender
+79e67b08-3e7c-49fc-a54e-2f5c003e083b,Boogie Electronics,Electronics,Smartwatch
+7dad3589-f0e3-4e94-ba7c-39ecd1fea9c8,Boogie Home Appliances,Home Appliances,Dishwasher
+02946c0a-79bf-4c9b-825a-05719fe80c38,Boogie Electronics,Electronics,Tablet
+365b209b-aee7-4edd-8fe1-0df61bacc54f,Store Kitchen Appliances,Kitchen Appliances,Pressure Cooker
+2cc9856f-3341-4e40-9f79-8bfcd869d15e,Boogie Smart Home,Smart Home,Smart Door Lock
+caf37bbd-326d-4d9d-9c48-e07ec5b4af33,Boogie Office Equipment,Office Equipment,Inkjet Printer
+4b2766c8-9313-4370-8060-e3ade8e74d40,Boogie Home Appliances,Home Appliances,Space Heater
+a51766bd-d7ea-4cd4-b886-859fecde73ee,Boogie Office Equipment,Office Equipment,Keyboard
+ed390147-e3a6-4a15-a10b-10e4d8767c60,Boogie Home Appliances,Home Appliances,Dishwasher
+de9916af-6d53-48b8-af5b-b3164ff4ea9b,Boogie Entertainment,Entertainment,Home Theater System
+6dcba27e-379a-4ccf-bd78-3899c9d2bb4c,Discount Office Equipment,Office Equipment,Laser Printer
+51db404b-732b-4560-80b9-5b597dde1c84,Store Gaming,Gaming,Gaming Keyboard
+a867dfc1-2dc4-41d7-99f3-4f812b0b0c9b,Discount Electronics,Electronics,Smart TV
+26080420-4930-462d-9e9b-9cd50597e1b7,Boogie Kitchen Appliances,Kitchen Appliances,Stand Mixer
+623db8c0-b8a5-4be3-be05-005bf8e662b4,Boogie Office Equipment,Office Equipment,Monitor
+0e575208-a8bb-46e5-bb51-ccca43006a97,Store Home Appliances,Home Appliances,Dryer
+0cc50434-5e23-4862-962f-69125a7d1f2e,Store Home Appliances,Home Appliances,Washing Machine
+b6b1882a-18f8-43fc-90ec-630a73b9983e,Store Photography,Photography,Action Camera
+057aa162-f611-4de9-9b15-29c84f3925cf,Boogie Electronics,Electronics,Tablet
+a237cc91-e5f8-448d-8216-ce239566a902,Discount Kitchen Appliances,Kitchen Appliances,Stand Mixer
+4b819ab6-ef3c-4a21-83db-c75ee6e9436b,Boogie Kitchen Appliances,Kitchen Appliances,Coffee Maker
+ae3c04fb-82b9-4aab-ab72-348c3e6b17b5,Store Fitness,Fitness,Exercise Bike
+a3c479fb-bfdf-4b0d-94ea-f96f96ab4246,Boogie Personal Care,Personal Care,Hair Dryer
+4547a8d1-7647-443e-83e9-86cfaf1fe5eb,Store Office Equipment,Office Equipment,Standing Desk
+342fcc77-9cea-42e7-8286-1e4beeed0cd5,Store Smart Home,Smart Home,Smart Door Lock
+6285bf58-eef3-47e6-bd52-40ccdbd1905a,Store Office Equipment,Office Equipment,External Hard Drive
+c6cc508f-62f1-4db5-a34a-2a8646030695,Discount Office Equipment,Office Equipment,Standing Desk
+eba26e8f-4d96-4146-a00d-2c986073cdd8,Boogie Office Equipment,Office Equipment,USB Flash Drive
+560fcc15-48c1-462d-bcc6-d927686c14a4,Discount Office Equipment,Office Equipment,Office Desk
+4d56641a-ba2f-4d1b-adc4-0a1c00c36740,Boogie Photography,Photography,Action Camera
+6666ad26-5c30-4925-ab26-4b9ebd3369c4,Discount Gaming,Gaming,Gaming Monitor
+75f8a152-eabc-40ef-8201-2fdee932f925,Boogie Office Equipment,Office Equipment,Monitor
+534c63bd-6fd8-4b3b-a63e-74a9b4241444,Store Electronics,Electronics,Wireless Earbuds
+252d56fb-260d-48b0-90bd-3166c6b893aa,Store Electronics,Electronics,Tablet
+65309e32-3ab2-4ae3-a64d-cd6aecc59535,Store Office Equipment,Office Equipment,Desk Chair
+af7d48b1-1019-434b-b05e-447ed2f22110,Boogie Fitness,Fitness,Fitness Tracker
+e6b87400-4ef3-464e-9e5d-3fcd7521a8dc,Store Office Equipment,Office Equipment,Router
+c67e709d-84c6-43df-b604-e99dd9d016ad,Store Smart Home,Smart Home,Smart Door Lock
+4a9de32a-d828-49a1-a34d-1cf6852de5a4,Discount Kitchen Appliances,Kitchen Appliances,Coffee Maker
+6357bc89-4de2-4d36-b888-3438bd726462,Discount Fitness,Fitness,Treadmill
+efe44866-f97c-412d-8072-25ede1a049ff,Discount Electronics,Electronics,Gaming Laptop
+868ab707-71b1-487c-b7e2-c0f88a4e4d4e,Store Kitchen Appliances,Kitchen Appliances,Toaster
+2b5755b7-3ceb-45b3-912f-8eeedef0cb17,Store Photography,Photography,Action Camera
+13ddb785-76f6-4703-9853-79d3c298a76b,Boogie Gaming,Gaming,Gaming Monitor
+a4d996cd-2d60-477a-91b1-0d78caecbf3b,Discount Home Appliances,Home Appliances,Ceiling Fan
+1fc7cdb8-421d-490b-ae34-ef26ce70851b,Store Home Appliances,Home Appliances,Iron
+2a071b10-608a-43b7-b91c-2655533c94a0,Boogie Kitchen Appliances,Kitchen Appliances,Pressure Cooker
+7c2fd7f4-2d74-4dde-9c2a-b9d2dd7ac0be,Boogie Electronics,Electronics,Gaming Laptop
+add2d0eb-51cc-461c-b962-8cddfac7a6e2,Discount Home Appliances,Home Appliances,Air Conditioner
+cb57f2c7-ab5d-4f99-b849-decffb519270,Discount Office Equipment,Office Equipment,Desk Chair
+d37a1d19-d46e-4f25-8272-1ace9e699488,Discount Office Equipment,Office Equipment,Mouse
+a118d436-1495-4111-b304-9d71426819ee,Store Kitchen Appliances,Kitchen Appliances,Stand Mixer
+95bb3ad7-69e8-4dcd-bed2-7d6f60424f37,Discount Office Equipment,Office Equipment,External Hard Drive
+e4ddb18c-7541-4a17-8956-2965fa68979c,Discount Home Appliances,Home Appliances,Space Heater
+94b9981b-c004-4274-892f-3cc4fd4aad68,Store Gaming,Gaming,Gaming Console
+fea0439c-be17-4810-b673-ed9a33794766,Boogie Electronics,Electronics,Smartwatch
+3740526d-e7f9-4fc4-ab32-4842c8b1ef0a,Store Electronics,Electronics,Bluetooth Speaker
+4d0f6b3b-0bcb-4aef-bd32-35ca1aa28771,Boogie Office Equipment,Office Equipment,Mouse
+25f4b419-a734-4e2d-b22f-3fb27a5c0c8c,Boogie Entertainment,Entertainment,Blu-ray Player
+45a4a986-2a17-424c-ab79-537c50e41c60,Discount Gaming,Gaming,Gaming Keyboard
+917c522d-c2a3-44ef-8c70-1d34095835ad,Discount Home Appliances,Home Appliances,Refrigerator
+82a88a87-a092-44f2-8ebd-67b56f1313cf,Discount Office Equipment,Office Equipment,Monitor
+965d7011-8a97-4860-8749-b9304623b63a,Store Office Equipment,Office Equipment,Desk Chair
+aded2ce9-290d-4f97-9571-978304bd6b7b,Discount Kitchen Appliances,Kitchen Appliances,Stand Mixer
+f5d7e262-d7c9-4069-8cfe-06fc2b72e969,Boogie Electronics,Electronics,Smart TV
+bb1f3e52-8ea7-4c3a-aebe-4e4b84f7e3d6,Discount Personal Care,Personal Care,Facial Steamer
+62f0a8e9-011c-44c2-ada4-aa7cbd5b07eb,Boogie Gaming,Gaming,Gaming Keyboard
+b1932286-dc77-4c70-9dba-4a30b0fe9623,Discount Office Equipment,Office Equipment,Standing Desk
+9c6704e3-eb29-4e21-a75c-2b912798a7ff,Store Fitness,Fitness,Dumbbells
+ec9244af-a95a-47fb-b464-b2e4cb4ccf6a,Discount Home Appliances,Home Appliances,Iron
+557886cf-56b4-4a4f-87d3-71cbfe6dc81d,Discount Kitchen Appliances,Kitchen Appliances,Microwave Oven
+a64b547c-532b-4646-b1ab-12fb0faeb025,Boogie Home Appliances,Home Appliances,Dishwasher
+889aee53-252a-4347-9017-ca92ed1b46a9,Boogie Office Equipment,Office Equipment,Desk Chair
+2111fdb2-09c4-489c-b0dc-859bf487dfb1,Store Office Equipment,Office Equipment,Mouse
+a939a285-04dc-4a8c-aaa3-4c3ec384e17f,Boogie Electronics,Electronics,Smartphone
+8c7a6e35-a067-40ee-9733-6ada19cdabcd,Discount Home Appliances,Home Appliances,Space Heater
+4d47a1d1-7d73-4726-be20-69190660afad,Boogie Electronics,Electronics,Gaming Laptop
+88a7d0c5-3ef9-4526-8824-513492a06ad8,Discount Kitchen Appliances,Kitchen Appliances,Blender
+6647e150-c95c-4062-80b0-ea126c2d1c2d,Store Smart Home,Smart Home,Smart Thermostat
+d700c9a2-5e78-4f1d-8496-9b77762fec68,Boogie Kitchen Appliances,Kitchen Appliances,Coffee Maker
+e2bed89e-f6aa-481b-a2d6-932ecb82c1a7,Boogie Gaming,Gaming,VR Headset
+240e3129-e5f3-4dbd-92e1-1f479c4327a3,Boogie Fitness,Fitness,Dumbbells
+31c5ea0f-b9f4-4527-bc14-b1dd510e989b,Boogie Electronics,Electronics,Smartphone
+875951c2-aadc-4fdc-805b-975851b07ff5,Boogie Fitness,Fitness,Dumbbells
+6921850b-941a-4619-bc08-6b17307560dc,Discount Home Appliances,Home Appliances,Air Conditioner
+27ed63d9-5ebc-4599-b8e9-5d14917e1bca,Discount Office Equipment,Office Equipment,USB Flash Drive
+db435a1e-5432-4906-a041-b11a7404d392,Discount Home Appliances,Home Appliances,Space Heater
+45e00fb9-a3c6-4db3-8210-c249107a3c5c,Boogie Home Appliances,Home Appliances,Vacuum Cleaner
+d84f3f7b-bc1f-421d-bbe0-b7509cef2a79,Boogie Office Equipment,Office Equipment,USB Flash Drive
+53b7dd1b-2aeb-4a40-97dd-7f5c64d076a0,Boogie Office Equipment,Office Equipment,Monitor
+c6d2206e-fb17-48c4-8070-b05034a25e2b,Boogie Fitness,Fitness,Dumbbells
+6be84fa8-0180-4a0c-8caa-9f79c1f5ef6b,Store Gaming,Gaming,Gaming Keyboard
+9d287f1e-3086-4348-b98b-cbab7c7a6df4,Discount Electronics,Electronics,Bluetooth Speaker
+fc832dcb-21b1-4cd9-801e-08748ec28c56,Discount Home Appliances,Home Appliances,Iron
+ad9162d2-74f2-42db-a72d-bc548b154743,Boogie Home Appliances,Home Appliances,Ceiling Fan
+6cc1bd62-a390-4ac7-b0d8-060d4ba29b71,Store Home Appliances,Home Appliances,Dehumidifier
+80079f40-73cc-4c66-9816-b6c98a3c3b54,Discount Photography,Photography,DSLR Camera
+810b730d-5cb2-4059-913b-a89ba6ca8d64,Store Office Equipment,Office Equipment,Office Desk
+60504cb0-e83b-40d0-8f1a-9b176822ac80,Store Home Appliances,Home Appliances,Dehumidifier
+56cd5ced-f9f7-4bc4-b3f2-e6d96c42b722,Boogie Office Equipment,Office Equipment,Printer
+74ca4600-cefe-4de2-b9fd-2ff2c44f1d40,Discount Kitchen Appliances,Kitchen Appliances,Stand Mixer
+41e58542-62b6-4226-83c8-02aba22b622a,Store Personal Care,Personal Care,Facial Steamer
+1cb93163-6c7f-4727-86ba-fcd1f4c2e9cc,Boogie Fitness,Fitness,Treadmill
+41d5c897-2130-4584-acd4-69001618a366,Boogie Kitchen Appliances,Kitchen Appliances,Blender
+bb9ca513-417f-4ce7-8e30-eab864242997,Store Home Appliances,Home Appliances,Vacuum Cleaner
+77da45f1-d0f0-4a75-a835-1a1515c4589d,Store Office Equipment,Office Equipment,Office Desk
+4adff05c-6273-4145-b2f6-b5d3b3d849a8,Discount Fitness,Fitness,Fitness Tracker
+779023d2-b867-43a0-b0c0-6b9625b5d331,Boogie Home Appliances,Home Appliances,Dryer
